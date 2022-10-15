@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02d91c6a","path":"/fr/travel/","title":"My travel","lang":"Fran\xE7ais","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1665842596000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"fr/travel/index.md"}');export{e as data};

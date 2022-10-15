@@ -1,0 +1,51 @@
+import{_ as c,o as l,c as d,a as e,b as t,d as o,w as u,e as p,r as a}from"./app.56c28c4d.js";const h={},b=["src"],k=e("h2",{id:"my-biggest-life",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#my-biggest-life","aria-hidden":"true"},"#"),o(" My biggest life")],-1),_=e("p",null,[o("I'am presales, I'm specialist with data and business intelligent. "),e("br"),o(" On my first life, I was web developer. I \u2764\uFE0F to write code.")],-1),m=e("h3",{id:"skills",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#skills","aria-hidden":"true"},"#"),o(" Skills")],-1),f=e("p",null,"Find on this very pretty donut, my professional and personal skills that I apply every day.",-1),g=e("h3",{id:"legacy",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#legacy","aria-hidden":"true"},"#"),o(" Legacy")],-1),q=e("p",null,"Find under its graphic lines my legacy skills over the years. In red you can see predictions about the future.",-1),v={class:"custom-container tip"},y=e("p",{class:"custom-container-title"},"Past life",-1),w={href:"http://vincent.legeard.info/cv",target:"_blank",rel:"noopener noreferrer"},B=e("h2",{id:"travel",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#travel","aria-hidden":"true"},"#"),o(" Travel")],-1),C=e("p",null,"I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...",-1),M={class:"custom-container tip"},I=e("p",{class:"custom-container-title"},"Past dream for me",-1),N=["href"],R=e("h2",{id:"passion",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#passion","aria-hidden":"true"},"#"),o(" Passion")],-1),L=e("h3",{id:"eating",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#eating","aria-hidden":"true"},"#"),o(" Eating...")],-1),S=e("p",null,"Find a selection of Parisian restaurants that I update frequently.",-1),x={class:"custom-container tip"},D=e("p",{class:"custom-container-title"},"Find a restaurant",-1),T={href:"https://resto.rouquin.me/",target:"_blank",rel:"noopener noreferrer"},A=e("h3",{id:"reading",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#reading","aria-hidden":"true"},"#"),o(" Reading...")],-1),F={href:"https://www.isbnsearcher.com/books/9782234088351",target:"_blank",rel:"noopener noreferrer"},P=e("div",{class:"custom-container danger"},[e("p",{class:"custom-container-title"},"(Citation) Comment font les gens ? Olivia de Lamberterie"),e("p",null,"Kindle a remplac\xE9 les \u0153ufs Kinder, un truc gras avec une merde cach\xE9e dedans.")],-1),E={href:"https://www.isbnsearcher.com/books/9782322237975",target:"_blank",rel:"noopener noreferrer"},J={href:"https://www.isbnsearcher.com/books/9782253156604",target:"_blank",rel:"noopener noreferrer"},K=e("div",{class:"custom-container danger"},[e("p",{class:"custom-container-title"},"(Citation) L'\xE9nigme du retour (French Edition) de Dany Laferriere"),e("p",null,"J\u2019avoue que c\u2019est plus facile d\u2019apprendre que de r\xE9apprendre. Mais le plus dur c\u2019est encore de d\xE9sapprendre.")],-1),V={href:"https://www.isbnsearcher.com/books/9782070445240",target:"_blank",rel:"noopener noreferrer"},G={href:"https://www.isbnsearcher.com/books/9782266182768",target:"_blank",rel:"noopener noreferrer"},W={href:"https://www.isbnsearcher.com/books/9782330136772",target:"_blank",rel:"noopener noreferrer"},j={href:"https://www.isbnsearcher.com/books/9782070370375",target:"_blank",rel:"noopener noreferrer"},U={href:"https://www.isbnsearcher.com/books/9782351788387",target:"_blank",rel:"noopener noreferrer"},O={class:"custom-container tip"},H=e("p",{class:"custom-container-title"},"Reading idea",-1),Y={class:"custom-container warning"},z=e("p",{class:"custom-container-title"},"Give me a beautiful book \u2764\uFE0F",-1),Z={href:"https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08",target:"_blank",rel:"noopener noreferrer"},$=p('<h3 id="listening" tabindex="-1"><a class="header-anchor" href="#listening" aria-hidden="true">#</a> Listening...</h3><blockquote><p>Kid Francescoli - Lovers (Yotanka Records)</p></blockquote><blockquote><p>Massive Attack - Blue Lines (Virgin, Circa, Wild Bunch Records)</p></blockquote><blockquote><p>Rockers Hi-Fi - DJ-Kicks: The Black Album (!K7 Records)</p></blockquote><blockquote><p>Basement Jaxx - Good Luck (XL Recordings)</p></blockquote><blockquote><p>Coldcut - Man In A Garage (Ninja Tune)</p></blockquote><blockquote><p>Sascha Funke - Bravo (BPitch Control)</p></blockquote><blockquote><p>Amon Tobin - Mission (Ninja Tune)</p></blockquote><blockquote><p>DJ Cam - Underground Vibes (Attytude Recordings)</p></blockquote><blockquote><p>MC Solaar - Caroline (Polydor)</p></blockquote><blockquote><p>DJ Vadim - Feel Up Vol.1 (Soulbeats Records)</p></blockquote><blockquote><p>Massive Attack - Protection (Circa, Wild Bunch Recordings)</p></blockquote><blockquote><p>Massive Attack - Mezzanine (Circa, Virgin)</p></blockquote><blockquote><p>Grand Corps Malade - Mesdames (Anouche Productions)</p></blockquote><blockquote><p>Justice - \u2020 (Cross) (Ed Banger Records, Because Music)</p></blockquote><blockquote><p>Kruder &amp; Dorfmeister - The K&amp;D Sessions\u2122 (!K7 Records, G-Stone Recordings)</p></blockquote><blockquote><p>DJ Cam - Lost Found 2 (Attytude Records)</p></blockquote><blockquote><p>Jamiroquai - Travelling Without Moving (Sony Music)</p></blockquote><blockquote><p>Bonobo - The North Borders (Ninja Tune)</p></blockquote><blockquote><p>Transglobal Underground - Psychic Karaoke (Nation Records)</p></blockquote><blockquote><p>Bonobo - Fragments (Ninja Tune)</p></blockquote><blockquote><p>DJ Krush - \u6F38 -Zen- (Columbia, Music On Vinyl)</p></blockquote><blockquote><p>Hot Chip - In Our Heads (Domino)</p></blockquote><blockquote><p>Neil Young - Harvest (Reprise Records)</p></blockquote><blockquote><p>DJ Cam - The Beat Assassinated (Inflamable)</p></blockquote><blockquote><p>Morcheeba - Big Calm (Indochina)</p></blockquote><blockquote><p>Supr\xEAme NTM - Supr\xEAme NTM (Epic, Legacy)</p></blockquote><blockquote><p>DJ Cam Quartet - Rebirth Of Cool (Attytude Records)</p></blockquote><blockquote><p>Tricky - Maxinquaye (4th &amp; Broadway, UMC)</p></blockquote><blockquote><p>Asian Dub Foundation - Facts And Fictions (Nation Records)</p></blockquote><blockquote><p>Roots Manuva - Facety 2:11 (Big Dada Recordings)</p></blockquote><blockquote><p>DJ Shadow - Endtroducing..... (UMC, Mo Wax, Island Records)</p></blockquote><blockquote><p>Bonobo - Migration (Ninja Tune)</p></blockquote><blockquote><p>Nirvana - Nevermind (30th Anniversary Edition) (Geffen Records, UMe, Sub Pop)</p></blockquote><blockquote><p>Portishead - Dummy (Go! Beat)</p></blockquote>',35),Q={class:"custom-container tip"},X=e("p",{class:"custom-container-title"},"See my collection on Discogs",-1),ee={href:"https://www.discogs.com/fr/user/magikcypress/collection",target:"_blank",rel:"noopener noreferrer"},oe={class:"custom-container warning"},te=e("p",{class:"custom-container-title"},"Give me a beautiful vinyl \u2764\uFE0F",-1),ne={href:"https://www.discogs.com/fr/wantlist?user=magikcypress",target:"_blank",rel:"noopener noreferrer"};function ae(s,se){const r=a("Chart"),n=a("ExternalLinkIcon"),i=a("RouterLink");return l(),d("div",null,[e("img",{src:s.$withBase("/img/cat.jpg"),alt:"Little cat"},null,8,b),k,_,m,f,t(r,{id:"chart_382ee149","data-code":`{
+  "type": "doughnut",
+  "data": {
+    "datasets": [{
+      "data": [30, 20, 10],
+      "backgroundColor": [
+        "#d2d9e9",
+        "#a3cef1",
+        "#6096ba"
+      ]
+    }],
+    "labels": ["Listen", "Speak", "Love"]
+  }
+}`}),g,q,t(r,{id:"chart_382ee165","data-code":`{
+  "type": "line",
+  "data": {
+    "labels": ["2000", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040"],
+    "datasets": [{
+      "label": "Legacy",
+      "data": [10, 20, 30, 40, 50, 60, 70, 89, 100],
+      "borderColor": "#d2d9e9",
+      "fill": {
+        "target": "origin",
+        "above": "#e4eaf4",
+        "below": "#6096ba"
+      },
+      "pointRadius": 5,
+      "backgroundColor": [
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908"
+      ]
+    }]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "ticks": {
+          "beginAtZero": true,
+          "callback": "function(value){ return ' ' + value + ' ki';  }"
+        }
+      }
+    }
+  }
+}`}),e("div",v,[y,e("p",null,[e("a",w,[o("You see my first professional life"),t(n)])])]),B,C,e("div",M,[I,e("p",null,[e("a",{href:s.$withBase("/travel/Maroc.html")},"Follow my travel",8,N)])]),R,L,S,e("div",x,[D,e("p",null,[e("a",T,[o("List of Parisian restaurants"),t(n)])])]),A,e("blockquote",null,[e("p",null,[o("Comment font les gens ? Olivia de Lamberterie (ISBN-13 "),e("a",F,[o("9782234088351"),t(n)]),o(")")])]),P,e("blockquote",null,[e("p",null,[o("En partant, le bonheur m'a dit ... de Sophia Peignot (ISBN-13 "),e("a",E,[o("9782322237975"),t(n)]),o(")")])]),e("blockquote",null,[e("p",null,[o("L'Enigme Du Retour de Dany Laferriere (ISBN-13 "),e("a",J,[o("9782253156604"),t(n)]),o(")")])]),K,e("blockquote",null,[e("p",null,[o("Morphine de Mikha\xEFl Boulgakov (ISBN-13 "),e("a",V,[o("9782070445240"),t(n)]),o(")")])]),e("blockquote",null,[e("p",null,[o("Voyage d'une Parisienne \xE0 Lhassa de Alexandra David-N\xE9el (ISBN-13 "),e("a",G,[o("9782266182768"),t(n)]),o(")")])]),e("blockquote",null,[e("p",null,[o("Un soup\xE7on de libert\xE9 de Margaret Wilkerson Sexton (ISBN-13 "),e("a",W,[o("9782330136772"),t(n)]),o(")")])]),e("blockquote",null,[e("p",null,[o("La ferme africaine de Karen Blixen (ISBN-13 "),e("a",j,[o("9782070370375"),t(n)]),o(")")])]),e("blockquote",null,[e("p",null,[o("Betty de Tiffany Mc Daniel (ISBN-13 "),e("a",U,[o("9782351788387"),t(n)]),o(")")])]),e("div",O,[H,e("p",null,[t(i,{to:"/passion/"},{default:u(()=>[o("What I have already read ...")]),_:1})])]),e("div",Y,[z,e("p",null,[e("a",Z,[o("Wantlist on FNAC"),t(n)])])]),$,e("div",Q,[X,e("p",null,[e("a",ee,[o("Collection on Discogs"),t(n)])])]),e("div",oe,[te,e("p",null,[e("a",ne,[o("Wantlist on Discogs"),t(n)])])])])}var ie=c(h,[["render",ae],["__file","index.html.vue"]]);export{ie as default};

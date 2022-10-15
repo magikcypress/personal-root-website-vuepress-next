@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1320767a","path":"/travel/Maroc.html","title":"Marocco","lang":"en-US","frontmatter":{"sidebar":false,"prev":false,"next":"./Vietnam"},"excerpt":"","headers":[],"git":{"updatedTime":1665842596000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"travel/Maroc.md"}');export{e as data};

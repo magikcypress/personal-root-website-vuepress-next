@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Passion
 
 Find my readings start from Dog River.
