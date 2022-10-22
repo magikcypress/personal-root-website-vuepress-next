@@ -6,7 +6,7 @@ next: ./Japon
 
 # Canada
 
-3 months in South America arriving in Buenos Aires, Assumption Paraguay, Uyuni Salar, La Paz, Titicaca, Arequipa, Machu Picchu and Lima
+1 semaine à Montréal, 2 jours à Québec, au bord du fleuve Saint Laurent pour le reste
 
 <img :src="$withBase('/img/canada.jpg')" alt="Cat on the wall">
 
