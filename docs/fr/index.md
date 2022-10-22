@@ -103,9 +103,11 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ### Lecture...
 
->  Comment font les gens ? Olivia de Lamberterie (ISBN-13 [9782234088351](https://www.isbnsearcher.com/books/9782234088351)) 
+>  La faiseuse d'anges de Camilla Läckberg (ISBN-13 [9782330032104](https://www.isbnsearcher.com/books/9782330032104)) 
 
-::: danger (Citation) Comment font les gens ? Olivia de Lamberterie
+>  Comment font les gens de Olivia de Lamberterie (ISBN-13 [9782234088351](https://www.isbnsearcher.com/books/9782234088351)) 
+
+::: danger (Citation) Comment font les gens de Olivia de Lamberterie
 Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
 :::
 
