@@ -99,7 +99,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 Find a selection of Parisian restaurants that I update frequently.
 
 ::: tip Find a restaurant
-[List of Parisian restaurants](https://resto.rouquin.me/)
+[List of Parisian restaurant](https://resto.rouquin.me/)
 :::
 
 ### Reading...
