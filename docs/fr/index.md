@@ -103,6 +103,10 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ### Lecture...
 
+>  Poussière dans le vent de Leonardo Padura (ISBN-13 [9791022611473](https://www.isbnsearcher.com/books/9791022611473))
+
+>  Là où chantent les écrevisses de Delia Owens (ISBN-13 [9782757889978](https://www.isbnsearcher.com/books/9782757889978))
+
 >  La faiseuse d'anges de Camilla Läckberg (ISBN-13 [9782330032104](https://www.isbnsearcher.com/books/9782330032104)) 
 
 >  Comment font les gens de Olivia de Lamberterie (ISBN-13 [9782234088351](https://www.isbnsearcher.com/books/9782234088351)) 
