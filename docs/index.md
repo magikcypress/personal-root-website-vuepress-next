@@ -104,6 +104,12 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
+>  Chien 51 de Laurent Gaudé (ISBN-13 [9782330168339](https://www.isbnsearcher.com/books/9782330168339))
+
+>  Performance de Simon Liberati (ISBN-13 [9782246822677](https://www.isbnsearcher.com/books/9782246822677))
+
+>  Rivage de la colère de Caroline Laurent (ISBN-13 [9782266311915](https://www.isbnsearcher.com/books/9782266311915))
+
 >  Poussière dans le vent de Leonardo Padura (ISBN-13 [9791022611473](https://www.isbnsearcher.com/books/9791022611473))
 
 >  Là où chantent les écrevisses de Delia Owens (ISBN-13 [9782757889978](https://www.isbnsearcher.com/books/9782757889978))
@@ -125,14 +131,6 @@ J’avoue que c’est plus facile d’apprendre que de réapprendre. Mais le plu
 :::
 
 >  Morphine de Mikhaïl Boulgakov (ISBN-13 [9782070445240](https://www.isbnsearcher.com/books/9782070445240))
-
->  Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 [9782266182768](https://www.isbnsearcher.com/books/9782266182768))
-
->  Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 [9782330136772](https://www.isbnsearcher.com/books/9782330136772))
-
->  La ferme africaine de Karen Blixen (ISBN-13 [9782070370375](https://www.isbnsearcher.com/books/9782070370375))
-
->  Betty de Tiffany Mc Daniel (ISBN-13 [9782351788387](https://www.isbnsearcher.com/books/9782351788387))
 
 ::: tip Reading idea
 [What I have already read ...](/passion/)
