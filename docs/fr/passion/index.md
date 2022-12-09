@@ -9,6 +9,14 @@ Volontairement, je ne classe pas les livres par date ou par appéciation.
 
 ## Lecture...
 
+>  Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 [9782266182768](https://www.isbnsearcher.com/books/9782266182768))
+
+>  Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 [9782330136772](https://www.isbnsearcher.com/books/9782330136772))
+
+>  La ferme africaine de Karen Blixen (ISBN-13 [9782070370375](https://www.isbnsearcher.com/books/9782070370375))
+
+>  Betty de Tiffany Mc Daniel (ISBN-13 [9782351788387](https://www.isbnsearcher.com/books/9782351788387))
+
 >  Les envolés de Etienne Kern (ISBN-13 [9782266218528](https://www.isbnsearcher.com/books/9782072920820))
 
 >  Le vieux qui ne voulait pas fêter son anniversaire de Jonas Jonasson (ISBN-13 [9782266218528](https://www.isbnsearcher.com/books/9782266218528))
