@@ -74,5 +74,22 @@ html.dark {
 
 html.dark .custom-container.danger {
     background: no-repeat 98%/15% url("/img/accolade-dark.png")!important;
-  }
-  
+}
+
+label {
+    color: #aaa;
+    font-size: 2em;
+    text-decoration: none;
+    -webkit-transition: color .4s;
+    -moz-transition: color .4s;
+    -o-transition: color .4s;
+    transition: color .4s;
+}
+.rating {
+    color: orange;
+    text-decoration: none;
+    -webkit-transition: color .4s;
+    -moz-transition: color .4s;
+    -o-transition: color .4s;
+    transition: color .4s;
+}
