@@ -108,8 +108,24 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+>  Les gens heureux lisent et boivent du café de Agnès Martin-Lugand  (ISBN-13 [9782266300872](https://www.isbnsearcher.com/books/9782266300872)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+>  Vivre Vite de Brigitte Giraud  (ISBN-13 [9782080207340](https://www.isbnsearcher.com/books/9782080207340)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Shibumi de Trevanian  (ISBN-13 [9782351780206](https://www.isbnsearcher.com/books/9782351780206)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Tenir sa langue de Polina Panassenko  (ISBN-13 [9782823619591](https://www.isbnsearcher.com/books/9782823619591)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
 >  Yoga de Emmanuelle Carrère (ISBN-13 [9782072977671](https://www.isbnsearcher.com/books/9782072977671)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger (Citation) Yoga de Emmanuelle Carrère
+Tout ce à quoi on s’applique avec sérieux et avec amour, du kung-fu à l’entretien des motocyclettes, peut être qualifié de yoga.
+:::
 
 >  Chien 51 de Laurent Gaudé (ISBN-13 [9782330168339](https://www.isbnsearcher.com/books/9782330168339)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
