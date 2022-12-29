@@ -107,6 +107,15 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres reste mon point de vue et uniquement mon point de vue ;)  
 
+>  La fille du train de Paula Hawkins (ISBN-13 [9782266254489](https://www.isbnsearcher.com/books/9782266254489)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+>  ... mais la vie continue de Bernard Pivot (ISBN-13 [9782253107378](https://www.isbnsearcher.com/books/9782253107378)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Le Niçois de Joann Sfar (ISBN-13 [9782749927923](https://www.isbnsearcher.com/books/9782749927923)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
 >  Les gens heureux lisent et boivent du café de Agnès Martin-Lugand  (ISBN-13 [9782266300872](https://www.isbnsearcher.com/books/9782266300872)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
