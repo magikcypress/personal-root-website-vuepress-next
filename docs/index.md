@@ -102,7 +102,7 @@ Find a selection of Parisian restaurants that I update frequently.
 [List of Parisian restaurant](https://resto.rouquin.me/)
 :::
 
-### Reading... (French)
+### Reading in French...
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
