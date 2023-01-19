@@ -12,6 +12,20 @@ Les évaluations de chaques livres reste mon point de vue et uniquement mon poin
 
 ## Lecture...
 
+
+>  En partant, le bonheur m'a dit ... de Sophia Peignot (ISBN-13 [9782322237975](https://www.isbnsearcher.com/books/9782322237975))
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  L'Enigme Du Retour de Dany Laferriere (ISBN-13 [9782253156604](https://www.isbnsearcher.com/books/9782253156604))
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger (Citation) L'énigme du retour (French Edition) de Dany Laferriere
+J’avoue que c’est plus facile d’apprendre que de réapprendre. Mais le plus dur c’est encore de désapprendre.
+:::
+
+>  Morphine de Mikhaïl Boulgakov (ISBN-13 [9782070445240](https://www.isbnsearcher.com/books/9782070445240))
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
 >  Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 [9782266182768](https://www.isbnsearcher.com/books/9782266182768))
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
