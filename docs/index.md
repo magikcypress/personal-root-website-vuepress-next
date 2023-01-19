@@ -107,6 +107,15 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+>  Une terre commune de Cédric Herrou 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbnsearcher.com/books/9782020591935)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  Vivre à ta lumière de abdellah taïa (ISBN-13 [9782021470574](https://www.isbnsearcher.com/books/9782021470574)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
 >  La fille du train de Paula Hawkins (ISBN-13 [9782266254489](https://www.isbnsearcher.com/books/9782266254489)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
