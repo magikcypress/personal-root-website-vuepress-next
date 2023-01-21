@@ -107,7 +107,14 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres reste mon point de vue et uniquement mon point de vue ;)  
 
->  Une terre commune de Cédric Herrou 
+>  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbnsearcher.com/books/9791027802852)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger (Citation) De la Soul aussi mort que vivant de Vincent Brunner
+ Le rap constitue en effet – avec la musique techno – la première forme d’expression à utiliser de façon systématique les techniques de reproduction sonore les plus sophistiquées...
+:::
+
+>  Une terre commune de Cédric Herrou (ISBN-13 [9782021520675](https://www.isbnsearcher.com/books/9782021520675)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
 
 >  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbnsearcher.com/books/9782020591935)) 
