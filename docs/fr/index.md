@@ -105,7 +105,7 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-Les évaluations de chaques livres reste mon point de vue et uniquement mon point de vue ;)
+Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
 
 >  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbnsearcher.com/books/9791027802852)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
