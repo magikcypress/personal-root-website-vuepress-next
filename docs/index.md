@@ -107,6 +107,29 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+>  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbnsearcher.com/books/9782850610516)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger (Citation) Etat d'urgence technologique de Olivier Tesquet
+Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide <sup>([67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825))<sup>.
+:::
+
+>  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbnsearcher.com/books/9782253937708)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger (Citation) La carte postale de Anne Berest
+On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quand on avait tout le temps. On se dit, comment ai-je pu être aussi confiant ?
+:::
+
+>  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbnsearcher.com/books/9782073003911)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+>  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.isbnsearcher.com/books/9782072730849)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+>  French touch: 1995-2015 : une épopée électro de Stéphane Jourdain (ISBN-13 [9791027800414](https://www.isbnsearcher.com/books/9791027800414))  
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 >  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbnsearcher.com/books/9791027802852)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
