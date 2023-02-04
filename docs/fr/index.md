@@ -111,7 +111,7 @@ Les évaluations de chaques livres restent mon point de vue et uniquement mon po
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger (Citation) Etat d'urgence technologique de Olivier Tesquet
-Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
+Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([Note 67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
 :::
 
 >  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbnsearcher.com/books/9782253937708)) 
@@ -123,6 +123,10 @@ On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quan
 
 >  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbnsearcher.com/books/9782073003911)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger (Citation) Le mage du Kremlin de Giuliano da Empoli
+Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre les chasseurs ou les écologistes ou les Noirs, ou les Blancs. Peu importe. L’essentiel est que chacun ait quelque chose qui lui tienne à cœur et quelqu’un qui le fasse enrager.
+:::
 
 >  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.isbnsearcher.com/books/9782072730849)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
