@@ -111,7 +111,7 @@ The evaluations of each book remain my point of view and only my point of view ;
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger (Citation) Etat d'urgence technologique de Olivier Tesquet
-Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
+Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide <sub>([67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825))</sub>.
 :::
 
 >  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbnsearcher.com/books/9782253937708)) 
