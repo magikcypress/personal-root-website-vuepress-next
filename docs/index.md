@@ -107,6 +107,12 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+>  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbnsearcher.com/books/9782410004755)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+>  Kilomètre zéro de Maud Ankaoua2 (ISBN-13 [9782290210512](https://www.isbnsearcher.com/books/9782290210512)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span> 
+
 >  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbnsearcher.com/books/9782850610516)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
