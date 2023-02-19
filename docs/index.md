@@ -219,7 +219,7 @@ Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
 
 ### Live steam...
 
-Sometime, I play a vinyl in my home & I stream on my [personal web live server](https://live.rouquin.me/).
+Sometime, I play vinyl in my home & I stream on my [personal web live server](https://live.rouquin.me/).
 
 ### Listening...
   
