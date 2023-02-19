@@ -217,6 +217,10 @@ Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
 [Liste des envies sur la FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
 :::
 
+### Live Stream...
+
+Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live personnel](https://live.rouquin.me/).
+
 ### Ecoute...
   
 > Kid Francescoli - Lovers 
