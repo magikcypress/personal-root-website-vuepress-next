@@ -1,9 +1,8 @@
-const { description } = require('../../package')
-//const { defaultTheme } = require('@vuepress/theme-default')
-//const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
-const { chartPlugin } = require("vuepress-plugin-chart");
+import { description } from  '../../package'
+import { chartPlugin } from  'vuepress-plugin-chart'
+import { defaultTheme } from 'vuepress'
 
-module.exports = {
+export default {
   /**
    * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
    */
@@ -54,32 +53,46 @@ module.exports = {
    *
    * ref：https://v2.vuepress.vuejs.org/guide/theme.html
    */
-  themeConfig: {
+  theme: defaultTheme({
     repo: 'https://github.com/magikcypress/personal-root-website-vuepress-next/',
     editLink: true,
     docsDir: 'docs/',
     editLinkText: 'Edit on Github',
-    lastUpdated: false,
-    search: true,
-    // default value is true. Set it to false to hide next page links on all pages
-    nextLinks: true,
-    // default value is true. Set it to false to hide prev page links on all pages
-    prevLinks: true,
-    //sidebar: true,
-/*    navbar: [
+    lastUpdated: true,
+    navbar: [
       {
-        text: 'Personal life',
-        link: '/personal/',
+        text: 'Directions',
+        children: [
+          {
+            text: 'My Biggest Life',
+            link: '#my-biggest-life',
+            // this item will always be active
+            activeMatch: '#my-biggest-life',
+          },
+          {
+            text: 'Travel',
+            link: '#travel',
+            // this item will be active when current route path starts with /foo/
+            // regular expression is supported
+            activeMatch: '#travel',
+          },
+          {
+            text: 'Passion',
+            link: '#passion',
+            // this item will be active when current route path starts with /foo/
+            // regular expression is supported
+            activeMatch: '#passion',
+          },
+          {
+            text: 'Live Stream',
+            link: 'https://live.rouquin.me/',
+            // this item will be active when current route path starts with /foo/
+            // regular expression is supported
+            activeMatch: 'https://live.rouquin.me/',
+          },
+        ],
       },
-      {
-        text: 'Traveling',
-        link: '/travel/'
-      },
-      {
-        text: 'Passion',
-        link: '/passion/'
-      }
-    ],*/
+    ],
     sidebar: {
       '/travel/': [
         {
@@ -98,7 +111,7 @@ module.exports = {
         }
       ],
     }
-  },
+  }),
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
@@ -106,8 +119,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    //'@vuepress/vuepress-plugin-ipfs',
     chartPlugin()
-    //nprogressPlugin(),
   ]
 }
