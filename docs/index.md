@@ -13,6 +13,10 @@ search: false
 I'am presales, I'm specialist with data and business intelligent. <br/>
 On my first life, I was web developer. I ❤️ to write code.
 
+My GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
+
+[![Magikcypress's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/magikcypress/)
+
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 
 ### Skills
