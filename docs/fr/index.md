@@ -13,6 +13,10 @@ search: false
 Je suis avant-vente, et je me suis spécialisé dans la donnée et l'analyse décisionnelle. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
+Mes stats GitHub propulsé par [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
+
+[![Magikcypress's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/magikcypress/)
+
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 ### Compétences
 
