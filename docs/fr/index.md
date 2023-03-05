@@ -117,9 +117,14 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ### Lecture...
 
-
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
+
+> Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbnsearcher.com/books/9782710388586)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbnsearcher.com/books/9782266300872)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 >  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbnsearcher.com/books/9782410004755)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
@@ -200,28 +205,6 @@ Tout ce à quoi on s’applique avec sérieux et avec amour, du kung-fu à l’e
 
 >  Chien 51 de Laurent Gaudé (ISBN-13 [9782330168339](https://www.isbnsearcher.com/books/9782330168339)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  Performance de Simon Liberati (ISBN-13 [9782246822677](https://www.isbnsearcher.com/books/9782246822677))
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
-
->  Rivage de la colère de Caroline Laurent (ISBN-13 [9782266311915](https://www.isbnsearcher.com/books/9782266311915))
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  Poussière dans le vent de Leonardo Padura (ISBN-13 [9791022611473](https://www.isbnsearcher.com/books/9791022611473))
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  Là où chantent les écrevisses de Delia Owens (ISBN-13 [9782757889978](https://www.isbnsearcher.com/books/9782757889978))
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  La faiseuse d'anges de Camilla Läckberg (ISBN-13 [9782330032104](https://www.isbnsearcher.com/books/9782330032104))
-<span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span>
-
->  Comment font les gens de Olivia de Lamberterie (ISBN-13 [9782234088351](https://www.isbnsearcher.com/books/9782234088351)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
-::: danger (Citation) Comment font les gens de Olivia de Lamberterie
-Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
-:::
 
 ::: tip Idées de livre
 [Ce que j'ai déjà lu ...](/fr/passion/)
