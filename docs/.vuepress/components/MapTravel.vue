@@ -24,7 +24,7 @@
   import { LMap, LTileLayer, LMarker, LGeoJson, LPopup } from "@vue-leaflet/vue-leaflet";
   
   export default {
-    name: "Example",
+    name: "Travel Map",
     components: {
       LMap,
       LTileLayer,
@@ -45,13 +45,13 @@
         geojson: {
             type: "FeatureCollection",
             features: [
-                {"type":"Feature","properties":{"name":"<a href='/travel/Maroc'>Marocco</a> 🇲🇦"},"geometry":{"type":"Point","coordinates":[-7.983822552378667, 31.63050992749335]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/Vietnam'>Vietnam</a> 🇻🇳"},"geometry":{"type":"Point","coordinates":[108.20308688175669, 16.050648524339056]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/Bresil'>Brazil</a> 🇧🇷"},"geometry":{"type":"Point","coordinates":[-47.89101142005619, -15.798737925436711]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/AmeriqueduSud'>South America</a> 🌎"},"geometry":{"type":"Point","coordinates":[-58.377853665448534, -34.60528680077048]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/Canada'>Canada</a> 🇨🇦"},"geometry":{"type":"Point","coordinates":[-73.57386448166177, 45.50522497642091]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/Liban'>Libanon</a> 🇱🇧"},"geometry":{"type":"Point","coordinates":[35.484732922562415, 33.90876886528679]}},
-                {"type":"Feature","properties":{"name":"<a href='/travel/Japon'>Japan</a> 🇯🇵"},"geometry":{"type":"Point","coordinates":[139.7683256734573, 35.68210722765266]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Maroc'>Marocco</a> 🇲🇦"},"geometry":{"type":"Point","coordinates":[-7.983822552378667, 31.63050992749335]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Vietnam'>Vietnam</a> 🇻🇳"},"geometry":{"type":"Point","coordinates":[108.20308688175669, 16.050648524339056]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Bresil'>Brazil</a> 🇧🇷"},"geometry":{"type":"Point","coordinates":[-47.89101142005619, -15.798737925436711]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/AmeriqueduSud'>South America</a> 🌎"},"geometry":{"type":"Point","coordinates":[-58.377853665448534, -34.60528680077048]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Canada'>Canada</a> 🇨🇦"},"geometry":{"type":"Point","coordinates":[-73.57386448166177, 45.50522497642091]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Liban'>Libanon</a> 🇱🇧"},"geometry":{"type":"Point","coordinates":[35.484732922562415, 33.90876886528679]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Japon'>Japan</a> 🇯🇵"},"geometry":{"type":"Point","coordinates":[139.7683256734573, 35.68210722765266]}},
             ],
         },
         geojsonOptions: {
@@ -69,7 +69,8 @@
         if (!this.enableTooltip) {
           return () => {};
         }
-        return (feature, layer) => {
+        return (feature, layer) => {  
+            console.log(feature)
             layer.bindPopup(
                 "<div>" + feature.properties.name + "</div>",
                 { permanent: false, sticky: true }

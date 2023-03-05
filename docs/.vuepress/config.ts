@@ -212,6 +212,7 @@ export default {
     rollupOptions: {
       external: [
         '@vue-leaflet/vue-leaflet',
+        'leaflet',
       ]
     }
   }
