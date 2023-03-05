@@ -68,7 +68,6 @@ export default {
         editLinkText: 'Edit on Github',
         lastUpdated: true,
         contributors: true,
-        contributorsText: 'Cyp',
         navbar: [
           {
             text: 'Directions',
@@ -132,7 +131,6 @@ export default {
         editLinkText: 'Edit on Github',
         lastUpdated: true,
         contributors: true,
-        contributorsText: 'Cyp',
         navbar: [
           {
             text: 'Directions',
