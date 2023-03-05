@@ -211,7 +211,7 @@ export default {
   build: {
     rollupOptions: {
       external: [
-        /^@vue-leaflet:*/,
+        /^@vue-leaflet*/,
       ]
     }
   }

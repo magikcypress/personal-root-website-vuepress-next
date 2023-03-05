@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-145ac574","path":"/blog/","title":"Blog","lang":"en-US","frontmatter":{"home":false,"description":false,"sidebar":false,"search":false,"lastUpdated":true},"excerpt":"","headers":[],"git":{"updatedTime":1666442487000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"blog/index.md"}');export{e as data};
