@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e291ac36","path":"/fr/personal/","title":"Personal life","lang":"Fran\xE7ais","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1678035790000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":2}]},"filePathRelative":"fr/personal/index.md"}');export{e as data};

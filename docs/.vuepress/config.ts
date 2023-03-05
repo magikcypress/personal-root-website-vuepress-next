@@ -206,5 +206,13 @@ export default {
         componentsDir: path.resolve(__dirname, './components'),
       },
     }
-  ]
+  ],
+
+  build: {
+    rollupOptions: {
+      external: [
+        /^vue-leaflet:.*/,
+      ]
+    }
+  }
 }
