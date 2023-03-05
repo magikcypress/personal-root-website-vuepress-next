@@ -24,14 +24,16 @@ export default {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
+    ['meta', { name: "robots", content: "noindex,nofollow"}],
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/favicons/apple-touch-icon.png"}],
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicons/favicon-32x32.png"}],
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicons/favicon-16x16.png"}],
     ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
     ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
     ['link', { rel: "icon", type: "image/x-icon", href: "/favicons/favicon.ico"}],
-    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
-    ['meta', { name: "robots", content: "noindex,nofollow"}]
+    // Not clean
+    ['link', { rel: "stylesheet", href: "https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"}]
   ],
 
   locales: {

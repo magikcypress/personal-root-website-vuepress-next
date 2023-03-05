@@ -21,8 +21,6 @@
   </template>
   
   <script>
-  import "leaflet/dist/leaflet.css";
-  //import { latLng } from "leaflet";
   import { LMap, LTileLayer, LMarker, LGeoJson, LPopup } from "@vue-leaflet/vue-leaflet";
   
   export default {
