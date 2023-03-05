@@ -57,3 +57,12 @@ blockquote {
 .footer {
   display: none;
 }
+
+hr {
+  border: 0;
+  background-image: var(--c-bg-page) !important;
+  height: 25px;
+  width: 850px;
+  margin-left: -50px;
+  padding: 0;
+}

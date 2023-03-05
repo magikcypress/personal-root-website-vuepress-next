@@ -88,13 +88,19 @@ Find under its graphic lines my legacy skills over the years. In red you can see
 [You see my first professional life](http://vincent.legeard.info/cv)
 :::
 
+---
+
 ## Travel
 
 I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
 
+<MapTravel/>
+
 ::: tip Past dream for me
 <a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>
 :::
+
+---
 
 ## Passion
 
@@ -102,9 +108,13 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 Find a selection of Parisian restaurants that I update frequently.
 
+<strong>🥗🧂🍲🥘🍆🍟🥒🍔🍕🥖</strong>
+
 ::: tip Find a restaurant
 [List of Parisian restaurant](https://resto.rouquin.me/)
 :::
+
+---
 
 ### Reading in French...
 
@@ -221,9 +231,13 @@ Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
 [Wantlist on FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
 :::
 
+---
+
 ### Live steam...
 
 Sometime, I play vinyl in my home & I stream on my [personal web live server](https://live.rouquin.me/).
+
+---
 
 ### Listening...
   

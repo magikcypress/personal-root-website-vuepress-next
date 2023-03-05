@@ -87,13 +87,19 @@ Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences
 [Voir ma première vie professionnel](http://vincent.legeard.info/cv)
 :::
 
+---
+
 ## Voyages
 
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
+<MapTravel/>
+
 ::: tip  Réves passés
 <a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a>
 :::
+
+---
 
 ## Passion
 
@@ -101,9 +107,13 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 Retrouver une sélection de restaurant Parisien que je mets régulièrement à jour.
 
+<strong>🥗🧂🍲🥘🍆🍟🥒🍔🍕🥖</strong>
+
 ::: tip  Trouver un restaurant
 [Liste des restos Parisiens](https://resto.rouquin.me/)
 :::
+
+---
 
 ### Lecture...
 
@@ -221,9 +231,13 @@ Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.
 [Liste des envies sur la FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
 :::
 
+---
+
 ### Stream en direct...
 
 Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live personnel](https://live.rouquin.me/).
+
+---
 
 ### Ecoute...
   
