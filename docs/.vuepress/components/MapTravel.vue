@@ -70,7 +70,6 @@
           return () => {};
         }
         return (feature, layer) => {  
-            console.log(feature)
             layer.bindPopup(
                 "<div>" + feature.properties.name + "</div>",
                 { permanent: false, sticky: true }
