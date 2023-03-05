@@ -40,7 +40,7 @@ Retrouver sur ce bien joli donut, mes compétences professionnelles et aussi per
 ```
 ### Héritage
 
-Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences au fil des années. En rouge, vous pouvez voir les prédictions sur l'avenir.
+Retrouver sous cet objet, la courbe d'évolution de mes compétences au fil des années. En rouge, vous pouvez voir les prédictions sur l'avenir.
 
 ```chart
 {
