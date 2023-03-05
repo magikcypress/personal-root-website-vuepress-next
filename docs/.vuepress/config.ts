@@ -61,6 +61,7 @@ export default {
       '/': {
         selectLanguageName: 'English',
 
+        sidebar: false,
         repo: 'https://github.com/magikcypress/personal-root-website-vuepress-next/',
         editLink: true,
         docsDir: 'docs/',
@@ -124,6 +125,7 @@ export default {
       '/fr/': {
         selectLanguageName: 'Français',
 
+        sidebar: false,
         repo: 'https://github.com/magikcypress/personal-root-website-vuepress-next/',
         editLink: true,
         docsDir: 'docs/',
