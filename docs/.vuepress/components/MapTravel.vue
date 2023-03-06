@@ -78,9 +78,9 @@
       }
     }
   };
-  </script>
+</script>
   
-  <style scoped>
+<style scoped>
     @media all {
         .mapContainer {
             width: 100%;

@@ -59,10 +59,29 @@ blockquote {
 }
 
 hr {
-  position:relative;
-  left: calc(.1% - 40px)!important;
   border: 0!important;
   background-image: var(--c-bg-page) !important;
   height: 25px!important;
-  width: calc(80px + 100%)!important;
+}
+
+@media all {
+  hr {
+    position:relative;
+    left: calc(700px - 100%)!important;
+    width: calc(80px + 100%)!important;
+  }
+}
+@media (max-width: 844px) {
+  hr {
+    position:relative;
+    left: calc(40px - 100%)!important;
+    width: calc(340px + 100%)!important;
+  }
+}  
+@media (max-width: 719px) {
+  hr {
+    position:relative;
+    left: calc(40px - 100%)!important;
+    width: calc(310px + 100%)!important;
+  }
 }
