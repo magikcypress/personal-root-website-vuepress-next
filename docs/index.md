@@ -108,7 +108,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 Find a selection of Parisian restaurants that I update frequently.
 
-<strong>🥗🧂🍲🥘🍆🍟🥒🍔🍕🥖🧆🍛🦐🌯🍗🫕🍣🌭</strong>
+<strong>🥗🧂🍲🥘🍆🍟🥒🍔🍕🥖🧆🍛🦐🌯🍗🫕🍣🌭🍝🥗🥩</strong>
 
 ::: tip Find a restaurant
 [List of Parisian restaurant](https://resto.rouquin.me/)
