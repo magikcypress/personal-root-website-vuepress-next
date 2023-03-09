@@ -12,6 +12,6 @@ First ticket of blog for the wired list command line.
 
 __Effect__: Execute last history commands on the system.
 
-Mar 09, 2023
-
 [1] : https://tldr.inbrowser.app/pages/common/source
+
+Mar 09, 2023
