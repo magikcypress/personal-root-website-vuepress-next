@@ -10,7 +10,8 @@ First ticket of blog for the wired list command line.
 
 > Execute commands from a file in the current shell. More information: [https://manned.org/source](https://manned.org/source). <sup>[1]</sup>
 
-::: (Effect)
+
+::: tip Effect 
 Execute last history commands on the system.
 :::
 
