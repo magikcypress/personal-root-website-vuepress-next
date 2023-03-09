@@ -10,8 +10,10 @@ First ticket of blog for the wired list command line.
 
 > source : Execute commands from a file in the current shell. More information: [https://manned.org/source](https://manned.org/source). <sup>[1]</sup>
 
-_Effect_: Execute last history commands on the system.
+## Effect
 
-[1] : https://tldr.inbrowser.app/pages/common/source
+Execute last history commands on the system.
 
 Mar 09, 2023
+
+[1] : https://tldr.inbrowser.app/pages/common/source
