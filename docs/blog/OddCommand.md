@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Odd Command line
 
 First ticket of blog for the wired list commande line.
