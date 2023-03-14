@@ -1,12 +1,12 @@
 ---
 home: false
-heroImage: /img/cat.jpg
+heroImage: /img/cat.webp
 description: false
 sidebar: false
 search: false
 ---
 
-<img :src="$withBase('/img/cat.jpg')" alt="Little cat">
+<img :src="$withBase('/img/cat.webp')" alt="Little cat">
 
 ## My biggest life
 
