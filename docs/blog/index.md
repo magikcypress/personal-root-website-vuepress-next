@@ -8,6 +8,8 @@ lastUpdated: true
 
 # Blog
 
->  [Disparition](/blog/disparition) [16/10/2022]
+>  [OddCommand](/blog/OddCommand) [03/09/2023]
 
->  [L'ours](/blog/ours) [16/10/2022]
+>  [Disparition](/blog/disparition) [10/16/2022]
+
+>  [L'ours](/blog/ours) [10/16/2022]

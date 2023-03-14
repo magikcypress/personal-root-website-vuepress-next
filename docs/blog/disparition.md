@@ -8,7 +8,7 @@ Camille longeait les quais de Seine sur son scooter électrique, elle venait de 
 
 Camille connaissait bien l’entreprise TF1, elle travaillait dans le service global finance. Elle était en première ligne pour voir la derive financière de la chaîne. Beaucoup de programmes étaient achetés extrêmement chère et ne trouvaient pas leurs publiques. Après l’affaire PPDA, beaucoup d’animateurs avaient été épinglés sur différentes affaires un peu malsaines.
 
-Camille avait très mal vécu les deux dernières années avant son licenciement. Elle avaient bien compris que l’humeur de gens étaient désagréables lorsque la situation d’une entreprise était chaotique. Mais elle n’avait pas imaginé le vivre et que cela se passe aussi mal.
+Camille avait très mal vécu les deux dernières années avant son licenciement. Elle avaient bien compris que les gens étaient désagréables lorsque la situation d’une entreprise était chaotique. Mais elle n’avait pas imaginé le vivre et que cela se passe aussi mal.
 
 Après beaucoup de souffrance et des nuits gachées par le stress, Camille va beaucoup mieux. Elle travaille chez un producteur de talent qui a su remettre de l'éthique dans des programmes ludiques et éducatifs.
 
@@ -20,5 +20,5 @@ Moi, je suis devenu éducateur. Mon expérience en communication et en manipulat
 
 Nos vies ont complétement changé et ce qu'elle nous propose nous rends heureux. Tous les deux nous sommes heureux.
 
-
+Oct 22, 2022
 
