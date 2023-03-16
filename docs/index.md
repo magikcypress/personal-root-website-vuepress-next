@@ -334,3 +334,7 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 ::: warning Give me a beautiful vinyl ❤️
 [Wantlist on Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
 :::
+
+
+| <ButtonTelegram/> | <ButtonBuyCoffee/> |  <GoLive/> |
+|-------------------|--------------------|------------|

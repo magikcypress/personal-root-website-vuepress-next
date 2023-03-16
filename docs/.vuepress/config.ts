@@ -1,6 +1,9 @@
 import { chartPlugin } from  'vuepress-plugin-chart'
 import { path } from '@vuepress/utils'
 import { defaultTheme } from 'vuepress'
+import * as dotenv from 'dotenv'
+
+dotenv.config()
 
 export default {
   /**
@@ -102,24 +105,24 @@ export default {
             ],
           },
         ],
-        sidebar: {
-          '/travel/': [
-            {
-              text: 'Travel',
-              collapsible: false,
-              children: [
-                '',
-                'Maroc',
-                'Vietnam',
-                'Bresil',
-                'AmeriqueduSud',
-                'Liban',
-                'Canada',
-                'Japon',
-              ]
-            }
-          ],
-        }
+        // sidebar: {
+        //   '/travel/': [
+        //     {
+        //       text: 'Travel',
+        //       collapsible: false,
+        //       children: [
+        //         '',
+        //         'Maroc',
+        //         'Vietnam',
+        //         'Bresil',
+        //         'AmeriqueduSud',
+        //         'Liban',
+        //         'Canada',
+        //         'Japon',
+        //       ]
+        //     }
+        //   ],
+        // }
       },
       '/fr/': {
         selectLanguageName: 'Français',
@@ -165,24 +168,24 @@ export default {
             ],
           },
         ],
-        sidebar: {
-          '/fr/travel/': [
-            {
-              text: 'Travel',
-              collapsible: false,
-              children: [
-                '',
-                'Maroc',
-                'Vietnam',
-                'Bresil',
-                'AmeriqueduSud',
-                'Liban',
-                'Canada',
-                'Japon',
-              ]
-            }
-          ],
-        }        
+        // sidebar: {
+        //   '/fr/travel/': [
+        //     {
+        //       text: 'Travel',
+        //       collapsible: false,
+        //       children: [
+        //         '',
+        //         'Maroc',
+        //         'Vietnam',
+        //         'Bresil',
+        //         'AmeriqueduSud',
+        //         'Liban',
+        //         'Canada',
+        //         'Japon',
+        //       ]
+        //     }
+        //   ],
+        // }        
 
       },
     }
@@ -215,5 +218,10 @@ export default {
         'leaflet',
       ]
     }
-  }
+  },
+
+  define: {
+    chatid: process.env.CHATID,
+    botkey: process.env.BOTKEY,
+  },
 }
