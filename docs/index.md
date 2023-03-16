@@ -336,5 +336,5 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 :::
 
 
-| <ButtonTelegram/> | <ButtonBuyCoffee/> |  <GoLive/> |
-|-------------------|--------------------|------------|
+| <ButtonBuyCoffee/> |  <GoLive/> |
+|--------------------|------------|
