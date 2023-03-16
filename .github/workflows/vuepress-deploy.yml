@@ -22,7 +22,15 @@ jobs:
           **/node_modules
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
-          ${{ runner.os }}-yarn-
+          ${{ runner.os }}-yarn-*
+
+    # Create env file for Telegram bot about hatid and botkey 
+    - name: 'Create env file'
+      run: |
+        touch .env
+        echo CHATID=${{ secrets.CHATID }}  >> .env
+        echo BOTKEY="${{ secrets.BOTKEY }}"  >> .env
+        cat .env
 
     # install dependencies if the cache did not hit
     - name: Install dependencies

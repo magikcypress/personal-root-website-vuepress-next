@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0ffd6b03","path":"/blog/disparition.html","title":"Disparition","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1666442487000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"blog/disparition.md"}');export{e as data};

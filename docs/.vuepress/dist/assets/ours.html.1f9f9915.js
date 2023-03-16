@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-7f4cb39e","path":"/blog/ours.html","title":"L'ours","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1678387745000,"contributors":[{"name":"__cyp","email":"cyp@rouquin.me","commits":2},{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"blog/ours.md"}`);export{e as data};
