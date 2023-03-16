@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5baff69c","path":"/passion/vinyl.html","title":"Vinyl","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1678035790000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"passion/vinyl.md"}');export{e as data};
