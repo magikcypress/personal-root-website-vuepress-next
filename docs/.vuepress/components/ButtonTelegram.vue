@@ -36,14 +36,12 @@
             .then( function( response ){
                 if( !response.ok ){
                     this.fetchError = response.status;
-                    console.log(this.fetchError)
                     this.messageSend = "Error Bro! ☠️";
                     this.dead = false;
                     this.ok = true;
                 }else{
                     response.json().then( function( data ){
                         this.fetchResponse = data;
-                        console.log(this.fetchResponse)
                         this.messageSend = "Many Thanks Bro! 😘";
                         this.dead = false;
                         this.ok = true;
