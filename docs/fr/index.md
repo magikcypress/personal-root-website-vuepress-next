@@ -334,6 +334,4 @@ Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live perso
 [Liste des envies sur Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
 :::
 
-<ButtonBuyCoffee/>
-
-<GoLive/>
+<Button/>

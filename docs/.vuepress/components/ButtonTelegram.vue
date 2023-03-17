@@ -1,11 +1,15 @@
 <template>
-    <div class="telegram-form" v-if="dead">
-        <form @submit="submit">
-            <input type="submit" class="action-button" value="Send me Love ❤️" name="Send message" :disabled="isLoading">
-        </form>
+    <div  v-if="dead">
+            <div class="grid-item">
+                <form @submit="submit" style="width: 100%;">
+                    <button type="button" class="action-button" value="Send me Love ❤️" name="Send message" :disabled="isLoading">Send me Love ❤️</button>
+                </form>
+            </div>
     </div>
-    <div class="telegram-response" v-if="ok">
-        {{ messageSend }}
+    <div v-if="ok">
+        <div class="grid-item">
+            {{ messageSend }}
+        </div>
     </div>
 </template>
 

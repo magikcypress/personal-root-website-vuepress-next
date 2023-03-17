@@ -1,5 +1,7 @@
 <template>
-    <button type="button" v-on:click="gotosite()" class="action-button">Go live website 🎺</button>
+    <div class="grid-item">
+        <button type="button" v-on:click="gotosite()" class="action-button">Go live website 🎺</button>
+    </div>
 </template>
  
 <script>

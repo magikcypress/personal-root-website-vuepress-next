@@ -64,12 +64,26 @@ hr {
   height: 25px!important;
 }
 
+.grid-container {
+  padding: 1rem;
+  height: 10rem;
+}
+
+.grid-item {
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 1em;
+}
+
 .action-button, .telegram-response {
   display: inline-block;
   font-size: 1.2rem;
   padding: 0.8rem 1.6rem;
   transition: background-color var(--c-brand-light);
   box-sizing: border-box;
+  cursor: pointer;
 }
 
 .action-button {
@@ -82,7 +96,6 @@ hr {
 .telegram-response {
   border: none;
 }
-
 
 // @media all {
 //   hr {
