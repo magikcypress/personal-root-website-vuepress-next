@@ -335,6 +335,6 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 [Wantlist on Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
 :::
 
+<ButtonBuyCoffee/>
 
-| <ButtonTelegram/> | <ButtonBuyCoffee/> |  <GoLive/> |
-|-------------------|--------------------|------------|
+<GoLive/>
