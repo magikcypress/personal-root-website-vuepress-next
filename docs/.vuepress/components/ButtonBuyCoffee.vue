@@ -1,6 +1,6 @@
 <template>
     <div class="grid-item">
-        <button type="button" v-on:click="gotosite()" class="action-button">Buy me coffee ☕</button>
+        <button type="button" v-on:click="gotosite()" class="action-button">Buy me coffee<br /> ☕</button>
     </div>
 </template>
 
