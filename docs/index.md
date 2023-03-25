@@ -121,6 +121,22 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbnsearcher.com/books/9782072767548)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>    
+
+> Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbnsearcher.com/books/9782070402472)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
+
+::: danger (Citation) Les années de Annie Ernaux
+Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par leur biographie, disaient « Monsieur » André Malraux, « Madame » Yourcenar en signe de respect pour leur personne vivante et ne faisaient étudier que des auteurs morts.
+:::
+
+> Chanson douce de Leïla Slimani (ISBN-13 [9782072764929](https://www.isbnsearcher.com/books/9782072764929)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
+> Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.isbnsearcher.com/books/9782253127536)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 > Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbnsearcher.com/books/9782710388586)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
