@@ -97,6 +97,28 @@ hr {
   border: none;
 }
 
+label {
+    color: #aaa;
+    font-size: 2em;
+    text-decoration: none;
+    -webkit-transition: color .4s;
+    -moz-transition: color .4s;
+    -o-transition: color .4s;
+    transition: color .4s;
+}
+.rating {
+    color: orange;
+    text-decoration: none;
+    -webkit-transition: color .4s;
+    -moz-transition: color .4s;
+    -o-transition: color .4s;
+    transition: color .4s;
+}
+
+strong {
+    font-size: 2em;
+}
+
 // @media all {
 //   hr {
 //     position:relative;

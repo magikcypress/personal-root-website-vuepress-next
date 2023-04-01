@@ -208,6 +208,11 @@ export default {
       components: {
         componentsDir: path.resolve(__dirname, './components'),
       },
+    },
+    'umami', 
+    {
+      trackerUrl: 'https://jasper-shrimp.pikapod.net', 
+      siteId: '15ce63ff-86bc-4edf-9324-5a2e5acecb12'
     }
   ],
 
