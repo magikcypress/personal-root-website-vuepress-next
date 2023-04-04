@@ -36,7 +36,8 @@ export default {
     ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
     ['link', { rel: "icon", type: "image/x-icon", href: "/favicons/favicon.ico"}],
     // Not clean
-    ['link', { rel: "stylesheet", href: "https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"}]
+    ['link', { rel: "stylesheet", href: "https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"}],
+    ['script', { src: "https://jasper-shrimp.pikapod.net/umami.js", 'data-website-id': "15ce63ff-86bc-4edf-9324-5a2e5acecb12", async: true, defer: true }]
   ],
 
   locales: {
@@ -208,11 +209,6 @@ export default {
       components: {
         componentsDir: path.resolve(__dirname, './components'),
       },
-    },
-    'umami', 
-    {
-      trackerUrl: 'https://jasper-shrimp.pikapod.net', 
-      siteId: '15ce63ff-86bc-4edf-9324-5a2e5acecb12'
     }
   ],
 
