@@ -53,13 +53,10 @@ jobs:
     - name: Deploy with rsync
       run: rsync -avz ./docs/.vuepress/dist/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/personal/
 
-    - name: Deploy on Pinata
-      uses: aquiladev/ipfs-action@master
+    - name: Deploy on Swarm
+      uses: aquiladev/swarm-action@v0.1
+      id: upload
       with:
         pinName: 'Personal Root Website'
-        service: infura
-        pin: true
         path: ./docs/.vuepress/dist/
-        infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
-        infuraProjectSecret: ${{ secrets.INFURA_API_SECRET }}
         verbose: true
