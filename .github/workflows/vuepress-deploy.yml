@@ -56,7 +56,7 @@ jobs:
     - name: Deploy on Pinata
       uses: aquiladev/ipfs-action@master
       with:
-        pin-name: 'Personal Root website'
+        pinName: 'Personal Root Website'
         service: pinata
         path: ./docs/.vuepress/dist/
         pinataKey: ${{ secrets.PINATA_API_KEY }}
