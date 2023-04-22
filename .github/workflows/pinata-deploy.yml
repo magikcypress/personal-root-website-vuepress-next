@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Pin
         id: pin
-        uses: jamescallumyoung/pinata-publish-action@v0.1.0
+        uses: jamescallumyoung/pinata-publish-action@v0.1.1
         with:
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET }}
