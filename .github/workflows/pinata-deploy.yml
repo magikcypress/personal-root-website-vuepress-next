@@ -1,0 +1,18 @@
+name: Deploy on Pinata
+on: [push]
+jobs:
+  pin_pinata_job:
+    runs-on: ubuntu-latest
+    name: Pin with Pinata
+    steps:
+      - name: Pin
+        id: pin
+        uses: jamescallumyoung/pinata-publish-action@v0.1.0
+        with:
+          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
+          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET }}
+          file-to-pin: ./docs/.vuepress/dist/
+      - name: Get the timestamp
+        run: echo "The timestamp of the pin is ${{ steps.pin.outputs.timestamp }}"
+      - name: Get the hash
+        run: echo "The hash of the pin is ${{ steps.pin.outputs.hash }}"
