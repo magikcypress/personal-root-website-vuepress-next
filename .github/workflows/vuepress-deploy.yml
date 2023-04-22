@@ -53,12 +53,12 @@ jobs:
     - name: Deploy with rsync
       run: rsync -avz ./docs/.vuepress/dist/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/personal/
 
-    - name: Deploy on Pinata
+    - name: Deploy on IPFS
       uses: ipfs-shipyard/ipfs-github-action@v2.1.1
       id: ipfs
       with:
         path_to_add: ./docs/.vuepress/dist/
-        cluster_host: /dnsaddr/vmi742450.contaboserver.net
+        cluster_host: /dnsaddr/195.88.87.111
         cluster_user: ${{ secrets.CLUSTER_USER }}
         cluster_password: ${{ secrets.CLUSTER_PASSWORD }}
       env:
