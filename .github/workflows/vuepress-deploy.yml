@@ -52,3 +52,13 @@ jobs:
 
     - name: Deploy with rsync
       run: rsync -avz ./docs/.vuepress/dist/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/personal/
+
+    - name: Deploy on Pinata
+      uses: anantaramdas/ipfs-pinata-deploy-action@v1.6.4
+      with:
+        pin-name: 'Personal Root website'
+        path: './docs/.vuepress/dist/'
+        pinata-api-key: ${{ secrets.PINATA_API_KEY }}
+        pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET }}
+        verbose: true
+        remove-old: false
