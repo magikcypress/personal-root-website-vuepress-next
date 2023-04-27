@@ -58,7 +58,7 @@ jobs:
       id: ipfs
       with:
         path_to_add: ./docs/.vuepress/dist/
-        cluster_host: /dnsaddr/_dnsaddr.ipfs.rouquin.me
+        cluster_host: /dnsaddr/ipfs.rouquin.me
         cluster_user: ${{ secrets.CLUSTER_USER }}
         cluster_password: ${{ secrets.CLUSTER_PASSWORD }}
       env:
