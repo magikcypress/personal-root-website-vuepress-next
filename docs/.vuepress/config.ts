@@ -37,7 +37,7 @@ export default {
     ['link', { rel: "icon", type: "image/x-icon", href: "/favicons/favicon.ico"}],
     // Not clean
     ['link', { rel: "stylesheet", href: "https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"}],
-    ['script', { src: "https://jasper-shrimp.pikapod.net/umami.js", 'data-website-id': "15ce63ff-86bc-4edf-9324-5a2e5acecb12", async: true }]
+    ['script', { src: "https://jasper-shrimp.pikapod.net/script.js", 'data-website-id': "15ce63ff-86bc-4edf-9324-5a2e5acecb12", async: true }]
   ],
 
   locales: {
