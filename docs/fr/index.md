@@ -1,12 +1,12 @@
 ---
 home: false
-heroImage: /img/cat.jpg
+heroImage: /img/cat-roux.webp
 description: false
 sidebar: false
 search: false
 ---
 
-<img :src="$withBase('/img/cat.jpg')" alt="Little cat">
+<img :src="$withBase('/img/cat-roux.webp')" alt="Little cat">
 
 ## Ma plus grande vie
 
@@ -119,6 +119,15 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
+
+> Leurs enfants après eux de Nicolas Mathieu (ISBN-13 [9782330108717](https://www.isbnsearcher.com/books/9782330108717)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
+> Judas de Amos Oz (ISBN-13 [9782072924903](https://www.isbnsearcher.com/books/9782072924903)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
+
+> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbnsearcher.com/books/9782072924903)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
 
 > La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbnsearcher.com/books/9782072767548)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>    

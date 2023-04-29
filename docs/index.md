@@ -121,6 +121,15 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> Leurs enfants après eux de Nicolas Mathieu (ISBN-13 [9782330108717](https://www.isbnsearcher.com/books/9782330108717)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
+> Judas de Amos Oz (ISBN-13 [9782072924903](https://www.isbnsearcher.com/books/9782072924903)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
+
+> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbnsearcher.com/books/9782072924903)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>    
+
 > La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbnsearcher.com/books/9782072767548)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>    
 
