@@ -14,7 +14,7 @@
      },
      methods : {
          gotosite(){
-             window.open(this.producturl, '_blank');
+             window.open(this.producturl);
          }
      }
  }
