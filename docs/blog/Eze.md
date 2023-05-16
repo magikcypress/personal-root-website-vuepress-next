@@ -8,11 +8,11 @@ Si vous n’êtes jamais aller à Éze. Je vous souhaite d’aller faire une bal
 Prenez soin de vous,
 Vincent
 
-![cactus](../public/img/IMG_0383.jpeg)
-![sculpture](../public/img/IMG_0381.jpeg)
-![cactus](../public/img/IMG_0380.jpeg)
-![cactus](../public/img/IMG_0378.jpeg)
-![cactus](../public/img/IMG_0375.jpeg)
-![cactus](../public/img/IMG_0374.jpeg)
-![sculpture](../public/img/IMG_0373.jpeg)
-![cactus](../public/img/IMG_0371.jpeg)
+![../.vuepress/public/img/IMG_0383.jpeg)
+![sculpture](../.vuepress/public/img/IMG_0381.jpeg)
+![cactus](../.vuepress/public/img/IMG_0380.jpeg)
+![cactus](../.vuepress/public/img/IMG_0378.jpeg)
+![cactus](../.vuepress/public/img/IMG_0375.jpeg)
+![cactus](../.vuepress/public/img/IMG_0374.jpeg)
+![sculpture](../.vuepress/public/img/IMG_0373.jpeg)
+![cactus](../.vuepress/public/img/IMG_0371.jpeg)
