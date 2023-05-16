@@ -8,7 +8,7 @@ lastUpdated: true
 
 # Blog
 
->  [Doc](/blog/Doc-05152023) [05/16/2023]
+>  [Cruch](/blog/Cruch) [05/16/2023]
 
 >  [Anniv](/blog/Anniv) [05/16/2023]
 
