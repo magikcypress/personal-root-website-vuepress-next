@@ -112,25 +112,7 @@ export default {
               },
             ],
           },
-        ],
-        // sidebar: {
-        //   '/travel/': [
-        //     {
-        //       text: 'Travel',
-        //       collapsible: false,
-        //       children: [
-        //         '',
-        //         'Maroc',
-        //         'Vietnam',
-        //         'Bresil',
-        //         'AmeriqueduSud',
-        //         'Liban',
-        //         'Canada',
-        //         'Japon',
-        //       ]
-        //     }
-        //   ],
-        // }
+        ]
       },
       '/fr/': {
         selectLanguageName: 'Français',
@@ -180,26 +162,7 @@ export default {
               },
             ],
           },
-        ],
-        // sidebar: {
-        //   '/fr/travel/': [
-        //     {
-        //       text: 'Travel',
-        //       collapsible: false,
-        //       children: [
-        //         '',
-        //         'Maroc',
-        //         'Vietnam',
-        //         'Bresil',
-        //         'AmeriqueduSud',
-        //         'Liban',
-        //         'Canada',
-        //         'Japon',
-        //       ]
-        //     }
-        //   ],
-        // }        
-
+        ]      
       },
     }
   }), 

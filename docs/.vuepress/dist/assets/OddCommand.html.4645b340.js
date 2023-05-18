@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7e6fc729","path":"/blog/OddCommand.html","title":"Odd Command line","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1678393980000,"contributors":[{"name":"__cyp","email":"cyp@rouquin.me","commits":13}]},"filePathRelative":"blog/OddCommand.md"}');export{e as data};
