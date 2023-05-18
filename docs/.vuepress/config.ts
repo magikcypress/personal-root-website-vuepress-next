@@ -51,7 +51,7 @@ export default {
     '/fr/': {
       lang: 'Français',
       title: 'Personal Root Website',
-      description: 'Personal Root Website - Passion, Travel, Music, Eating, Streaming'
+      description: 'Personal Root Website - Passion, Voyage, Musique, Manger, Streaming'
     }
   },
 
@@ -82,6 +82,13 @@ export default {
                 // this item will always be active
                 activeMatch: '#my-biggest-life',
               },
+              {
+                text: 'Blog',
+                link: '/#blog',
+                // this item will be active when current route path starts with /foo/
+                // regular expression is supported
+                activeMatch: '#blog',
+              }, 
               {
                 text: 'Travel',
                 link: '/#travel',
@@ -145,6 +152,11 @@ export default {
                 // this item will always be active
                 activeMatch: '#ma-plus-grande-vie',
               },
+              {
+                text: 'Blog',
+                link: '/fr/#blog',
+                activeMatch: '#blog',
+              },              
               {
                 text: 'Voyages',
                 link: '/fr/#voyages',

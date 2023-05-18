@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./ours
+next: ./Eze
 ---
 
 # Odd Command line

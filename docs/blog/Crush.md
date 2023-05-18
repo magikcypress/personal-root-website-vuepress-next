@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./Eze
+next: ./
+---
+
 # Crush
 
 Cela fait au moins 6 mois que l’on ne sait pas vu ! Vous me manquez beaucoup. J’espère vous revoir rapidement.

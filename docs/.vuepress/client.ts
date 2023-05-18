@@ -5,6 +5,7 @@ import Button from './components/Button.vue'
 import ButtonTelegram from './components/ButtonTelegram.vue'
 import ButtonBuyCoffee from './components/ButtonBuyCoffee.vue'
 import ButtonGoLive from './components/ButtonGoLive.vue'
+import Blog from './components/Blog.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -13,6 +14,7 @@ export default defineClientConfig({
     app.component('ButtonTelegram', ButtonTelegram)
     app.component('ButtonBuyCoffee', ButtonBuyCoffee)
     app.component('ButtonGoLive', ButtonGoLive)
+    app.component('Blog', Blog)
   },
   setup() {},
   rootComponents: [Footer],

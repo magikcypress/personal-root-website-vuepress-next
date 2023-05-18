@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./
+next: ./disparition
 ---
 
 # L'ours

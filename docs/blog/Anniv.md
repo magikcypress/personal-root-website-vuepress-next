@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./Eze
+next: ./Crush
+---
+
 # Bonjour Aurélie,
 
 J’espère que vous allez bien ?

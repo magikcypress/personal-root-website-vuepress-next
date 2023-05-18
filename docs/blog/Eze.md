@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./OddCommand
+next: ./Anniv
+---
+
 # Bonjour Sarah,
 J’espère que vous allez bien ?
 
