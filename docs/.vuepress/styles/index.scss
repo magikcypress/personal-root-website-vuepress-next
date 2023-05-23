@@ -114,7 +114,8 @@ strong {
 }
 
 .custom-container.danger .custom-container-title:before {
-  color: var(--c-text-light);
+  font-size: .9em;
+  color: var(--c-text-lighter);
   content: "“citation”";
   display: block;
 }
