@@ -4,7 +4,7 @@ prev: ./ours
 next: ./OddCommand
 ---
 
-# Disparition 
+# Disparition
 
 Camille longeait les quais de Seine sur son scooter électrique, elle venait de dépasser l’immeuble de Viva, anciennement la boîte à con. Ce nom humoristique utilisé par les guignols de l’info pour leurs sketchs dans les années 90.
 
@@ -18,7 +18,7 @@ Aujourd’hui la télévision traditionnelle n’existe plus, internet avait com
 
 Viva avait en quelques années modifié énormément les mentalités et nos manières de vivre. Malgré une certaine réticence des populations pour l’adoption de viva, la prise en main de outil permettant d’améliorer les accès à la culture, à l’enseignement, de consacrer plus de temps a nos familles et de fixer nos déplacements de long distance pour nos vacances ou nos loisirs.
 
-Moi, je suis devenu éducateur. Mon expérience en communication et en manipulation de la donnée profite aux plus jeunes comme au plus vieux. Viva m’a permis de changer de vie, d'ailleurs le métier que je faisais avant n'existe plus. Mon travaille ne me prends pas beaucoup de temps car viva propose de compléter mon enseignement en fonction du programme que je souhaite dispenser. Je passe beaucoup de temps avec le collectif de ma ville pour traiter les différents travaux à effectuées. Cette semaine, je suis en charge de surveiller les GarbageBot pour suivre leurs bon fonctionnement. 
+Moi, je suis devenu éducateur. Mon expérience en communication et en manipulation de la donnée profite aux plus jeunes comme au plus vieux. Viva m’a permis de changer de vie, d'ailleurs le métier que je faisais avant n'existe plus. Mon travaille ne me prends pas beaucoup de temps car viva propose de compléter mon enseignement en fonction du programme que je souhaite dispenser. Je passe beaucoup de temps avec le collectif de ma ville pour traiter les différents travaux à effectuées. Cette semaine, je suis en charge de surveiller les GarbageBot pour suivre leurs bon fonctionnement.
 
 Nos vies ont complétement changé et ce qu'elle nous propose nous rends heureux. Tous les deux nous sommes heureux.
 

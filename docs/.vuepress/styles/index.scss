@@ -27,12 +27,6 @@ body {
   font-size: 2.65rem!important;
 }
 
-@media (max-width: 719px) {
-  .navbar .site-name {
-    font-size: 1.45rem!important;
-  }
-}
-
 .theme-default-content {
   background-color: var(--c-bg)!important;
 }
@@ -119,6 +113,12 @@ strong {
     font-size: 2em;
 }
 
+.custom-container.danger .custom-container-title:before {
+  color: var(--c-text-light);
+  content: "“citation”";
+  display: block;
+}
+
 @media all {
   hr {
     position:relative;
@@ -129,9 +129,12 @@ strong {
 
 // wide mobile
 @media (max-width: 719px) {
+  .navbar .site-name {
+    font-size: 1.15rem !important;
+  }
   hr {
     position: relative;
-    left: calc(40px - 100%)!important;
+    left: calc(35px - 100%)!important;
     width: calc(310px + 100%)!important;
   }
 }

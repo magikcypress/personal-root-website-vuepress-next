@@ -39,6 +39,7 @@ Find on this very pretty donut, my professional and personal skills that I apply
   }
 }
 ```
+
 ### Legacy
 
 Find under its graphic lines my legacy skills over the years. In red you can see predictions about the future.
@@ -103,7 +104,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 <MapTravel/>
 
 ::: tip Past dream for me
-<a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>
+[Follow my travel](/travel/Maroc.html)
 :::
 
 ---
@@ -142,7 +143,7 @@ The evaluations of each book remain my point of view and only my point of view ;
 > Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbnsearcher.com/books/9782070402472)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
 
-::: danger (Citation) Les années de Annie Ernaux
+::: danger Les années de Annie Ernaux
 Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par leur biographie, disaient « Monsieur » André Malraux, « Madame » Yourcenar en signe de respect pour leur personne vivante et ne faisaient étudier que des auteurs morts.
 :::
 
@@ -167,21 +168,21 @@ Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par l
 >  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbnsearcher.com/books/9782850610516)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-::: danger (Citation) Etat d'urgence technologique de Olivier Tesquet
+::: danger Etat d'urgence technologique de Olivier Tesquet
 Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([Note 67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
 :::
 
 >  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbnsearcher.com/books/9782253937708)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-::: danger (Citation) La carte postale de Anne Berest
+::: danger La carte postale de Anne Berest
 On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quand on avait tout le temps. On se dit, comment ai-je pu être aussi confiant ?
 :::
 
 >  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbnsearcher.com/books/9782073003911)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-::: danger (Citation) Le mage du Kremlin de Giuliano da Empoli
+::: danger Le mage du Kremlin de Giuliano da Empoli
 Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre les chasseurs ou les écologistes ou les Noirs, ou les Blancs. Peu importe. L’essentiel est que chacun ait quelque chose qui lui tienne à cœur et quelqu’un qui le fasse enrager.
 :::
 
@@ -194,7 +195,7 @@ Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre l
 >  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbnsearcher.com/books/9791027802852)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-::: danger (Citation) De la Soul aussi mort que vivant de Vincent Brunner
+::: danger De la Soul aussi mort que vivant de Vincent Brunner
  Le rap constitue en effet – avec la musique techno – la première forme d’expression à utiliser de façon systématique les techniques de reproduction sonore les plus sophistiquées...
 :::
 
@@ -231,7 +232,7 @@ Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre l
 >  Yoga de Emmanuelle Carrère (ISBN-13 [9782072977671](https://www.isbnsearcher.com/books/9782072977671)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
-::: danger (Citation) Yoga de Emmanuelle Carrère
+::: danger Yoga de Emmanuelle Carrère
 Tout ce à quoi on s’applique avec sérieux et avec amour, du kung-fu à l’entretien des motocyclettes, peut être qualifié de yoga.
 :::
 
