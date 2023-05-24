@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./Crush
+next: ./
+---
+
 # Gaufrette
 
 __QOTD__ : Tu as cru que la vie est une gaufrette ?
