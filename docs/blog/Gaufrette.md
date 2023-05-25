@@ -6,7 +6,7 @@ next: ./
 
 # Gaufrette
 
-_Quote Of The Day_ : Tu as cru que la vie est une gaufrette ?
+_Quote Of The Day_ : Tu as cru que la vie était une gaufrette ?
 
 Sarahbie
 
