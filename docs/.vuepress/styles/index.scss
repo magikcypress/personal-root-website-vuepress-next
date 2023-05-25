@@ -130,7 +130,7 @@ strong {
 
 @media (min-width: 720px) {
   .theme-container.no-sidebar .sidebar {
-    display: none;
+    display: none !important;
   }
 }
 
