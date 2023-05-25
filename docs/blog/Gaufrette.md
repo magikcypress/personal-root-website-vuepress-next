@@ -6,7 +6,7 @@ next: ./
 
 # Gaufrette
 
-__QOTD__ : Tu as cru que la vie est une gaufrette ?
+_Quote Of The Day_ : Tu as cru que la vie est une gaufrette ?
 
 Sarahbie
 
