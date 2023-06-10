@@ -1,7 +1,7 @@
 ---
 sidebar: false
 prev: ./Crush
-next: ./
+next: ./OddCommand-1
 ---
 
 # Gaufrette
