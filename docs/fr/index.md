@@ -10,8 +10,14 @@ search: false
 
 ## Ma plus grande vie
 
-Je suis avant-vente, et je me suis spécialisé dans la donnée et l'analyse décisionnelle. <br/>
-Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
+- 💰 Je suis Avant-Vente
+- 📈 Je suis spécialiste en data et analyse décisionnelle
+- 🌟 J'ai été développeur web ...
+- 💬 Vos questions sur la musique
+- j'❤️ écrire du code
+- :ghost: SurnomWeb: cyp
+- ⚡ Fun fact: Aime les stickers
+- 🪴J'ai grandi entre 331 PPM et 369 PPM
 
 Mes stats GitHub propulsé par [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 

@@ -10,8 +10,14 @@ search: false
 
 ## My biggest life
 
-I'am presales, I'm specialist with data and business intelligent. <br/>
-On my first life, I was web developer. I ❤️ to write code.
+- 💰 I'm presales
+- 📈 I'm specialist with data and business intelligent
+- 🌟 I was web developer ...
+- 💬 Ask me about music
+- I ❤️ to write code.
+- :ghost: Pronouns: cyp
+- ⚡ Fun fact: Love sticker
+- 🪴Grow up between 331 PPM & 369 PPM
 
 My GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 
