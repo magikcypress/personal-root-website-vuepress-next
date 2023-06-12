@@ -17,7 +17,7 @@ search: false
 - I ❤️ to write code.
 - :ghost: Pronouns: cyp
 - ⚡ Fun fact: Love sticker
-- 🪴Grow up between 331 PPM & 369 PPM
+- 🪴Grow up between +87 PPM
 
 My GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 
