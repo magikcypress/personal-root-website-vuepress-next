@@ -17,7 +17,7 @@ search: false
 - j'❤️ écrire du code
 - :ghost: SurnomWeb: cyp
 - ⚡ Fun fact: Aime les stickers
-- 🪴J'ai grandi entre 331 PPM et 369 PPM
+- 🪴J'ai grandi avec 87 PPM
 
 Mes stats GitHub propulsé par [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 
