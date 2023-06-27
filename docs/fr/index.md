@@ -133,6 +133,28 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
 
+> Les Promises de Jean-Christophe Grangé (ISBN-13 [9782253195542](https://www.isbnsearcher.com/books/9782253195542)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> La chauve-souris et le capital: Stratégie pour l'urgence chronique de Andreas Malm (ISBN-13 [9782358722032](https://www.isbnsearcher.com/books/9782358722032)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Une femme fuyant l'annonce de David Grossman (ISBN-13 [9782757883341](https://www.isbnsearcher.com/books/9782757883341)) 
+<span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span> 
+
+> La Mort immortelle de Cixin Liu (ISBN-13 [9782330143190](https://www.isbnsearcher.com/books/9782330143190)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> La forêt sombre de Cixin Liu (ISBN-13 [9782330125110](https://www.isbnsearcher.com/books/9782330125110)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
+::: danger La forêt sombre de Cixin Liu
+L’Univers est une forêt sombre dans laquelle chaque civilisation est un chasseur armé d’un fusil.
+:::
+
+> Le problème à trois corps de Cixin Liu (ISBN-13 [9782330113551](https://www.isbnsearcher.com/books/9782330113551)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
 > Leurs enfants après eux de Nicolas Mathieu (ISBN-13 [9782330108717](https://www.isbnsearcher.com/books/9782330108717)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
