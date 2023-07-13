@@ -133,6 +133,22 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
 
+> Les guerres intérieures de Valérie Tong Cuong (ISBN-13 [9782253102021](https://www.isbnsearcher.com/books/9782253102021)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Le dialogue de Simon Johannin (ISBN-13 [9791030430011](https://www.isbnsearcher.com/books/9791030430011)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger Le dialogue de Simon Johannin
+« Si tu aimes avec ce cœur que j’ai vu se battre comme seuls les lions se battent, si tu changes tes intentions, si ce combat contre le mauvais sort du monde devient le vent fort de l’amour, alors plutôt que de boire et de vider les peines, tu pourras regarder ailleurs, et amener autant de lumière dans ta vie que tu as vu de noirceur passer par d’autres pour te prendre. Je sens dans ton souffle que tu as des pouvoirs, qu’en feras-tu ? »
+:::
+
+> Déjà les mouches de Matthieu Peck (ISBN-13 [9782072976810](https://www.isbnsearcher.com/books/9782072976810)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Les meufs c'est des mecs bien de Mourad Winter (ISBN-13 [9782493865076](https://www.isbnsearcher.com/books/9782493865076)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 > Les Promises de Jean-Christophe Grangé (ISBN-13 [9782253195542](https://www.isbnsearcher.com/books/9782253195542)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
 
