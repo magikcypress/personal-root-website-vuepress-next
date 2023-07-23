@@ -12,6 +12,41 @@ Les évaluations de chaques livres reste mon point de vue et uniquement mon poin
 
 ## Lecture...
 
+
+>  Vivre à ta lumière de abdellah taïa (ISBN-13 [9782021470574](https://www.isbnsearcher.com/books/9782021470574)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  La fille du train de Paula Hawkins (ISBN-13 [9782266254489](https://www.isbnsearcher.com/books/9782266254489)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+>  ... mais la vie continue de Bernard Pivot (ISBN-13 [9782253107378](https://www.isbnsearcher.com/books/9782253107378)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Le Niçois de Joann Sfar (ISBN-13 [9782749927923](https://www.isbnsearcher.com/books/9782749927923)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  Les gens heureux lisent et boivent du café de Agnès Martin-Lugand  (ISBN-13 [9782266300872](https://www.isbnsearcher.com/books/9782266300872)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+>  Vivre Vite de Brigitte Giraud  (ISBN-13 [9782080207340](https://www.isbnsearcher.com/books/9782080207340)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Shibumi de Trevanian  (ISBN-13 [9782351780206](https://www.isbnsearcher.com/books/9782351780206)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Tenir sa langue de Polina Panassenko  (ISBN-13 [9782823619591](https://www.isbnsearcher.com/books/9782823619591)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+>  Yoga de Emmanuelle Carrère (ISBN-13 [9782072977671](https://www.isbnsearcher.com/books/9782072977671)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger Yoga de Emmanuelle Carrère
+Tout ce à quoi on s’applique avec sérieux et avec amour, du kung-fu à l’entretien des motocyclettes, peut être qualifié de yoga.
+:::
+
+>  Chien 51 de Laurent Gaudé (ISBN-13 [9782330168339](https://www.isbnsearcher.com/books/9782330168339)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
 >  Performance de Simon Liberati (ISBN-13 [9782246822677](https://www.isbnsearcher.com/books/9782246822677))
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 

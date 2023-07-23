@@ -134,6 +134,15 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> Ceux que je suis (FINITUDE) de Olivier Dorchamps (ISBN-13 [9782363391186](https://www.isbnsearcher.com/books/9782363391186)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Le train des enfants de Viola Ardone (ISBN-13 [9782226442017](https://www.isbnsearcher.com/books/9782226442017)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Les Femmes du bout du monde de Mélissa Da Costa (ISBN-13 [9782226472724](https://www.isbnsearcher.com/books/9782226472724)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 > Les guerres intérieures de Valérie Tong Cuong (ISBN-13 [9782253102021](https://www.isbnsearcher.com/books/9782253102021)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
@@ -248,40 +257,6 @@ Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre l
 
 >  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbnsearcher.com/books/9782020591935)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  Vivre à ta lumière de abdellah taïa (ISBN-13 [9782021470574](https://www.isbnsearcher.com/books/9782021470574)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  La fille du train de Paula Hawkins (ISBN-13 [9782266254489](https://www.isbnsearcher.com/books/9782266254489)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
-
->  ... mais la vie continue de Bernard Pivot (ISBN-13 [9782253107378](https://www.isbnsearcher.com/books/9782253107378)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  Le Niçois de Joann Sfar (ISBN-13 [9782749927923](https://www.isbnsearcher.com/books/9782749927923)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbnsearcher.com/books/9782266300872)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
-
->  Vivre Vite de Brigitte Giraud  (ISBN-13 [9782080207340](https://www.isbnsearcher.com/books/9782080207340)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  Shibumi de Trevanian  (ISBN-13 [9782351780206](https://www.isbnsearcher.com/books/9782351780206)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  Tenir sa langue de Polina Panassenko  (ISBN-13 [9782823619591](https://www.isbnsearcher.com/books/9782823619591)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
->  Yoga de Emmanuelle Carrère (ISBN-13 [9782072977671](https://www.isbnsearcher.com/books/9782072977671)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-::: danger Yoga de Emmanuelle Carrère
-Tout ce à quoi on s’applique avec sérieux et avec amour, du kung-fu à l’entretien des motocyclettes, peut être qualifié de yoga.
-:::
-
->  Chien 51 de Laurent Gaudé (ISBN-13 [9782330168339](https://www.isbnsearcher.com/books/9782330168339)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: tip Reading idea
 [What I have already read ...](/passion/)
