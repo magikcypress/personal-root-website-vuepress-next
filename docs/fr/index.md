@@ -104,6 +104,10 @@ Retrouver sous cet objet, la courbe d'évolution de mes compétences au fil des 
 
 ## Voyages
 
+::: tip Indisponible
+Actuellement les blogs de voyage du rouquin sont indisponible
+:::
+
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
 <MapTravel/>
