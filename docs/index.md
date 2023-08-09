@@ -138,6 +138,15 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> Les Vertueux de Yasmina Khadra (ISBN-13 [9782266332477](https://www.isbnsearcher.com/books/9782266332477)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Eldorado de Laurent Gaudé (ISBN-13 [9782264003577](https://www.isbnsearcher.com/books/9782264003577)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Les gens de Bilbao naissent où ils veulent de Maria Larrea (ISBN-13 [9782246831969](https://www.isbnsearcher.com/books/9782246831969)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 > Ceux que je suis (FINITUDE) de Olivier Dorchamps (ISBN-13 [9782363391186](https://www.isbnsearcher.com/books/9782363391186)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
