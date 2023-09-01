@@ -138,149 +138,149 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
-> La Révolution Multivers de Florence Verzelen (ISBN-13 [9791037022141](https://isbnsearch.org/isbn/9791037022141)) 
+> La Révolution Multivers de Florence Verzelen (ISBN-13 [9791037022141](https://openlibrary.org/isbn/9791037022141)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
 
-> Reine de coeur de Akira Mizubayashi (ISBN-13 [9782072984051](https://isbnsearch.org/isbn/9782072984051)) 
+> Reine de coeur de Akira Mizubayashi (ISBN-13 [9782072984051](https://openlibrary.org/isbn/9782072984051)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Quand tu écouteras cette chanson de Lola Lafon (ISBN-13 [9782253245209](https://isbnsearch.org/isbn/9782253245209)) 
+> Quand tu écouteras cette chanson de Lola Lafon (ISBN-13 [9782253245209](https://openlibrary.org/isbn/9782253245209)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> L'Enfant de la prochaine aurore de Louise Erdrich (ISBN-13 [9782253936886](https://isbnsearch.org/isbn/9782253936886)) 
+> L'Enfant de la prochaine aurore de Louise Erdrich (ISBN-13 [9782253936886](https://openlibrary.org/isbn/9782253936886)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les Vertueux de Yasmina Khadra (ISBN-13 [9782266332477](https://www.isbnsearch.org/isbn/9782266332477)) 
+> Les Vertueux de Yasmina Khadra (ISBN-13 [9782266332477](https://www.openlibrary.org/isbn/9782266332477)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Eldorado de Laurent Gaudé (ISBN-13 [9782264003577](https://www.isbnsearch.org/isbn/9782264003577)) 
+> Eldorado de Laurent Gaudé (ISBN-13 [9782264003577](https://www.openlibrary.org/isbn/9782264003577)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les gens de Bilbao naissent où ils veulent de Maria Larrea (ISBN-13 [9782246831969](https://www.isbnsearch.org/isbn/9782246831969)) 
+> Les gens de Bilbao naissent où ils veulent de Maria Larrea (ISBN-13 [9782246831969](https://www.openlibrary.org/isbn/9782246831969)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Ceux que je suis (FINITUDE) de Olivier Dorchamps (ISBN-13 [9782363391186](https://www.isbnsearch.org/isbn/9782363391186)) 
+> Ceux que je suis (FINITUDE) de Olivier Dorchamps (ISBN-13 [9782363391186](https://www.openlibrary.org/isbn/9782363391186)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Le train des enfants de Viola Ardone (ISBN-13 [9782226442017](https://www.isbnsearch.org/isbn/9782226442017)) 
+> Le train des enfants de Viola Ardone (ISBN-13 [9782226442017](https://www.openlibrary.org/isbn/9782226442017)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les Femmes du bout du monde de Mélissa Da Costa (ISBN-13 [9782226472724](https://www.isbnsearch.org/isbn/9782226472724)) 
+> Les Femmes du bout du monde de Mélissa Da Costa (ISBN-13 [9782226472724](https://www.openlibrary.org/isbn/9782226472724)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les guerres intérieures de Valérie Tong Cuong (ISBN-13 [9782253102021](https://www.isbnsearch.org/isbn/9782253102021)) 
+> Les guerres intérieures de Valérie Tong Cuong (ISBN-13 [9782253102021](https://www.openlibrary.org/isbn/9782253102021)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Le dialogue de Simon Johannin (ISBN-13 [9791030430011](https://www.isbnsearch.org/isbn/9791030430011)) 
+> Le dialogue de Simon Johannin (ISBN-13 [9791030430011](https://www.openlibrary.org/isbn/9791030430011)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger Le dialogue de Simon Johannin
 « Si tu aimes avec ce cœur que j’ai vu se battre comme seuls les lions se battent, si tu changes tes intentions, si ce combat contre le mauvais sort du monde devient le vent fort de l’amour, alors plutôt que de boire et de vider les peines, tu pourras regarder ailleurs, et amener autant de lumière dans ta vie que tu as vu de noirceur passer par d’autres pour te prendre. Je sens dans ton souffle que tu as des pouvoirs, qu’en feras-tu ? »
 :::
 
-> Déjà les mouches de Matthieu Peck (ISBN-13 [9782072976810](https://www.isbnsearch.org/isbn/9782072976810)) 
+> Déjà les mouches de Matthieu Peck (ISBN-13 [9782072976810](https://www.openlibrary.org/isbn/9782072976810)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les meufs c'est des mecs bien de Mourad Winter (ISBN-13 [9782493865076](https://www.isbnsearch.org/isbn/9782493865076)) 
+> Les meufs c'est des mecs bien de Mourad Winter (ISBN-13 [9782493865076](https://www.openlibrary.org/isbn/9782493865076)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les Promises de Jean-Christophe Grangé (ISBN-13 [9782253195542](https://www.isbnsearch.org/isbn/9782253195542)) 
+> Les Promises de Jean-Christophe Grangé (ISBN-13 [9782253195542](https://www.openlibrary.org/isbn/9782253195542)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
 
-> La chauve-souris et le capital: Stratégie pour l'urgence chronique de Andreas Malm (ISBN-13 [9782358722032](https://www.isbnsearch.org/isbn/9782358722032)) 
+> La chauve-souris et le capital: Stratégie pour l'urgence chronique de Andreas Malm (ISBN-13 [9782358722032](https://www.openlibrary.org/isbn/9782358722032)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Une femme fuyant l'annonce de David Grossman (ISBN-13 [9782757883341](https://www.isbnsearch.org/isbn/9782757883341)) 
+> Une femme fuyant l'annonce de David Grossman (ISBN-13 [9782757883341](https://www.openlibrary.org/isbn/9782757883341)) 
 <span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span> 
 
-> La Mort immortelle de Cixin Liu (ISBN-13 [9782330143190](https://www.isbnsearch.org/isbn/9782330143190)) 
+> La Mort immortelle de Cixin Liu (ISBN-13 [9782330143190](https://www.openlibrary.org/isbn/9782330143190)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> La forêt sombre de Cixin Liu (ISBN-13 [9782330125110](https://www.isbnsearch.org/isbn/9782330125110)) 
+> La forêt sombre de Cixin Liu (ISBN-13 [9782330125110](https://www.openlibrary.org/isbn/9782330125110)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
 ::: danger La forêt sombre de Cixin Liu
 L’Univers est une forêt sombre dans laquelle chaque civilisation est un chasseur armé d’un fusil.
 :::
 
-> Le problème à trois corps de Cixin Liu (ISBN-13 [9782330113551](https://www.isbnsearch.org/isbn/9782330113551)) 
+> Le problème à trois corps de Cixin Liu (ISBN-13 [9782330113551](https://www.openlibrary.org/isbn/9782330113551)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
-> Leurs enfants après eux de Nicolas Mathieu (ISBN-13 [9782330108717](https://www.isbnsearch.org/isbn/9782330108717)) 
+> Leurs enfants après eux de Nicolas Mathieu (ISBN-13 [9782330108717](https://www.openlibrary.org/isbn/9782330108717)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
-> Judas de Amos Oz (ISBN-13 [9782072924903](https://www.isbnsearch.org/isbn/9782072924903)) 
+> Judas de Amos Oz (ISBN-13 [9782072924903](https://www.openlibrary.org/isbn/9782072924903)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
 
-> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbnsearch.org/isbn/9782072924903)) 
+> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.openlibrary.org/isbn/9782072924903)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>    
 
-> La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbnsearch.org/isbn/9782072767548)) 
+> La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.openlibrary.org/isbn/9782072767548)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>    
 
-> Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbnsearch.org/isbn/9782070402472)) 
+> Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.openlibrary.org/isbn/9782070402472)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>   
 
 ::: danger Les années de Annie Ernaux
 Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par leur biographie, disaient « Monsieur » André Malraux, « Madame » Yourcenar en signe de respect pour leur personne vivante et ne faisaient étudier que des auteurs morts.
 :::
 
-> Chanson douce de Leïla Slimani (ISBN-13 [9782072764929](https://www.isbnsearch.org/isbn/9782072764929)) 
+> Chanson douce de Leïla Slimani (ISBN-13 [9782072764929](https://www.openlibrary.org/isbn/9782072764929)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
-> Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.isbnsearch.org/isbn/9782253127536)) 
+> Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.openlibrary.org/isbn/9782253127536)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbnsearch.org/isbn/9782710388586)) 
+> Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.openlibrary.org/isbn/9782710388586)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
-> Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbnsearch.org/isbn/9782266300872)) 
+> Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.openlibrary.org/isbn/9782266300872)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
->  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbnsearch.org/isbn/9782410004755)) 
+>  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.openlibrary.org/isbn/9782410004755)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
->  Kilomètre zéro de Maud Ankaoua2 (ISBN-13 [9782290210512](https://www.isbnsearch.org/isbn/9782290210512)) 
+>  Kilomètre zéro de Maud Ankaoua2 (ISBN-13 [9782290210512](https://www.openlibrary.org/isbn/9782290210512)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span> 
 
->  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbnsearch.org/isbn/9782850610516)) 
+>  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.openlibrary.org/isbn/9782850610516)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger Etat d'urgence technologique de Olivier Tesquet
 Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([Note 67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
 :::
 
->  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbnsearch.org/isbn/9782253937708)) 
+>  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.openlibrary.org/isbn/9782253937708)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger La carte postale de Anne Berest
 On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quand on avait tout le temps. On se dit, comment ai-je pu être aussi confiant ?
 :::
 
->  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbnsearch.org/isbn/9782073003911)) 
+>  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.openlibrary.org/isbn/9782073003911)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger Le mage du Kremlin de Giuliano da Empoli
 Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre les chasseurs ou les écologistes ou les Noirs, ou les Blancs. Peu importe. L’essentiel est que chacun ait quelque chose qui lui tienne à cœur et quelqu’un qui le fasse enrager.
 :::
 
->  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.isbnsearch.org/isbn/9782072730849)) 
+>  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.openlibrary.org/isbn/9782072730849)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
->  French touch: 1995-2015 : une épopée électro de Stéphane Jourdain (ISBN-13 [9791027800414](https://www.isbnsearch.org/isbn/9791027800414))  
+>  French touch: 1995-2015 : une épopée électro de Stéphane Jourdain (ISBN-13 [9791027800414](https://www.openlibrary.org/isbn/9791027800414))  
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
->  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbnsearch.org/isbn/9791027802852)) 
+>  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.openlibrary.org/isbn/9791027802852)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
 ::: danger De la Soul aussi mort que vivant de Vincent Brunner
  Le rap constitue en effet – avec la musique techno – la première forme d’expression à utiliser de façon systématique les techniques de reproduction sonore les plus sophistiquées...
 :::
 
->  Une terre commune de Cédric Herrou (ISBN-13 [9782021520675](https://www.isbnsearch.org/isbn/9782021520675)) 
+>  Une terre commune de Cédric Herrou (ISBN-13 [9782021520675](https://www.openlibrary.org/isbn/9782021520675)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
 
->  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbnsearch.org/isbn/9782020591935)) 
+>  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.openlibrary.org/isbn/9782020591935)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
 
 ::: tip Reading idea
