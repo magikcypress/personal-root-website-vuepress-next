@@ -138,6 +138,38 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> Triste tigre de  Neige Sinno (ISBN-13 [9782818058268](https://isbndb.com/book/9782818058268)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> L'enfant qui attendait un train de Jean d' Ormesson (ISBN-13 [9782350871240](https://isbndb.com/book/9782350871240)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Le Syndrome du canal carpien de John Boyne (ISBN-13 [9782253244547](https://isbndb.com/book/9782253244547)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Miracle à la Combe aux Aspics de Ante Tomic (ISBN-13 [9782882506788](https://isbndb.com/book/9782882506788)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Le Lâche de Jarred McGinnis (ISBN-13 [9791022612142](https://isbndb.com/book/9791022612142)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Mon chien Stupide de John Fante (ISBN-13 [9782264013255](https://isbndb.com/book/9782264013255)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> La famille de Naomi Krupitsky (ISBN-13 [9782073006691](https://isbndb.com/book/9782073006691)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Mon mari de Maud Ventura (ISBN-13 [9782493909213](https://isbndb.com/book/9782493909213)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Le choix de Viola Ardone (ISBN-13 [9782226471413](https://isbndb.com/book/9782226471413)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger Le choix de Viola Ardone
+Dire oui, même un âne sait le faire, alors que dire non est difficile, mais une fois qu’on a commencé on n’arrête
+plus
+:::
+
 > La Révolution Multivers de Florence Verzelen (ISBN-13 [9791037022141](https://isbndb.com/book/9791037022141)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
 
@@ -155,6 +187,10 @@ The evaluations of each book remain my point of view and only my point of view ;
 
 > Eldorado de Laurent Gaudé (ISBN-13 [9782264003577](https://www.isbndb.com/book/9782264003577)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger Eldorado de Laurent Gaudé
+Les hommes n'étaient décidement beaux que des décisions qu'ils prennent.
+:::
 
 > Les gens de Bilbao naissent où ils veulent de Maria Larrea (ISBN-13 [9782246831969](https://www.isbndb.com/book/9782246831969)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
@@ -194,7 +230,7 @@ The evaluations of each book remain my point of view and only my point of view ;
 <span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span> 
 
 > La Mort immortelle de Cixin Liu (ISBN-13 [9782330143190](https://www.isbndb.com/book/9782330143190)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆-</span><span class="rating">☆</span> 
 
 > La forêt sombre de Cixin Liu (ISBN-13 [9782330125110](https://www.isbndb.com/book/9782330125110)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
@@ -239,49 +275,6 @@ Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par l
 
 >  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbndb.com/book/9782410004755)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
->  Kilomètre zéro de Maud Ankaoua2 (ISBN-13 [9782290210512](https://www.isbndb.com/book/9782290210512)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span> 
-
->  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbndb.com/book/9782850610516)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
-::: danger Etat d'urgence technologique de Olivier Tesquet
-Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([Note 67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
-:::
-
->  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbndb.com/book/9782253937708)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
-::: danger La carte postale de Anne Berest
-On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quand on avait tout le temps. On se dit, comment ai-je pu être aussi confiant ?
-:::
-
->  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbndb.com/book/9782073003911)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
-::: danger Le mage du Kremlin de Giuliano da Empoli
-Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre les chasseurs ou les écologistes ou les Noirs, ou les Blancs. Peu importe. L’essentiel est que chacun ait quelque chose qui lui tienne à cœur et quelqu’un qui le fasse enrager.
-:::
-
->  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.isbndb.com/book/9782072730849)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
->  French touch: 1995-2015 : une épopée électro de Stéphane Jourdain (ISBN-13 [9791027800414](https://www.isbndb.com/book/9791027800414))  
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
->  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbndb.com/book/9791027802852)) 
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
-
-::: danger De la Soul aussi mort que vivant de Vincent Brunner
- Le rap constitue en effet – avec la musique techno – la première forme d’expression à utiliser de façon systématique les techniques de reproduction sonore les plus sophistiquées...
-:::
-
->  Une terre commune de Cédric Herrou (ISBN-13 [9782021520675](https://www.isbndb.com/book/9782021520675)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
-
->  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbndb.com/book/9782020591935)) 
-<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
 
 ::: tip Reading idea
 [What I have already read ...](/passion/)

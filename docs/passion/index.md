@@ -12,6 +12,49 @@ The evaluations of each book remain my point of view and only my point of view;)
 
 ## Reading in French...
 
+>  Kilomètre zéro de Maud Ankaoua (ISBN-13 [9782290210512](https://www.isbndb.com/book/9782290210512)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span> 
+
+>  Etat d'urgence technologique de Olivier Tesquet (ISBN-13 [9782850610516](https://www.isbndb.com/book/9782850610516)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger Etat d'urgence technologique de Olivier Tesquet
+Eric Schmidt considérait presque le coronavirus comme un évènement providentiel : « Si nous devons construire une économie fondée sur la distance, nous avons besoin d’une population complètement connectée et d’une infrastructure ultrarapide ([Note 67](https://www.wsj.com/articles/a-real-digital-infrastructure-at-last-11585313825)).
+:::
+
+>  La carte postale de Anne Berest (ISBN-13 [9782253937708](https://www.isbndb.com/book/9782253937708)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger La carte postale de Anne Berest
+On regarde en arrière et on se demande pourquoi on n’a pas réagi avant, quand on avait tout le temps. On se dit, comment ai-je pu être aussi confiant ?
+:::
+
+>  Le mage du Kremlin de Giuliano da Empoli (ISBN-13 [9782073003911](https://www.isbndb.com/book/9782073003911)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger Le mage du Kremlin de Giuliano da Empoli
+Peut-être qu’il y a quelqu’un qui est contre les vaccins, un autre contre les chasseurs ou les écologistes ou les Noirs, ou les Blancs. Peu importe. L’essentiel est que chacun ait quelque chose qui lui tienne à cœur et quelqu’un qui le fasse enrager.
+:::
+
+>  Le petit prince d'Antoine de Saint-Exupéry (ISBN-13 [9782072730849](https://www.isbndb.com/book/9782072730849)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+>  French touch: 1995-2015 : une épopée électro de Stéphane Jourdain (ISBN-13 [9791027800414](https://www.isbndb.com/book/9791027800414))  
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+>  De la Soul aussi mort que vivant de Vincent Brunner (ISBN-13 [9791027802852](https://www.isbndb.com/book/9791027802852)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+::: danger De la Soul aussi mort que vivant de Vincent Brunner
+ Le rap constitue en effet – avec la musique techno – la première forme d’expression à utiliser de façon systématique les techniques de reproduction sonore les plus sophistiquées...
+:::
+
+>  Une terre commune de Cédric Herrou (ISBN-13 [9782021520675](https://www.isbndb.com/book/9782021520675)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
+>  La lionne blanche de Henning Mankell (ISBN-13 [9782020591935](https://www.isbndb.com/book/9782020591935)) 
+<span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
+
 >  Vivre à ta lumière de abdellah taïa (ISBN-13 [9782021470574](https://isbndb.com/book/9782021470574)) 
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span>
 
