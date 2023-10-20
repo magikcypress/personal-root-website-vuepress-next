@@ -11,7 +11,7 @@ search: false
 ## My biggest life
 
 - 💰 I'm presales
-- 📈 I'm specialist with data and business intelligent
+- 📈 I'm specialist with data and business intelligence
 - 🌟 I was web developer ...
 - 💬 Ask me about music
 - I ❤️ to write code.
