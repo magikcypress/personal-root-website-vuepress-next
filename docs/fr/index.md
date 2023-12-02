@@ -137,6 +137,36 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
 
+> Les miracles du bazar Namiya de Keigo Higashino (ISBN-13 [9782330157128](https://isbndb.com/book/9782330157128)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> Le liseur de Bernhard Schlink (ISBN-13 [9782070793938](https://isbndb.com/book/9782070793938)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Les huit montagnes de Romain Gary (ISBN-13 [9782253073871](https://isbndb.com/book/9782253073871)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> La vie devant soi de Romain Gary (ISBN-13 [9782070373628](https://isbndb.com/book/9782070373628)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> Le soleil des Scorta de Laurent Gaudé (ISBN-13 [9782810509577](https://isbndb.com/book/9782810509577)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Veiller sur elle de Jean-Baptiste Andrea (ISBN-13 [9782378803759](https://isbndb.com/book/9782378803759)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Fuir l'Eden de Olivier Dorchamps (ISBN-13 [9782266328708](https://isbndb.com/book/9782266328708)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Sensibilités de Tania de Montaigne (ISBN-13 [9782246814481](https://isbndb.com/book/9782246814481)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Panorama de Lilia Hassaine (ISBN-13 [9782073035059](https://isbndb.com/book/9782073035059)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> La Colère et l'Envie de Alice Renard (ISBN-13 [9782350878966](https://isbndb.com/book/9782350878966)) 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+> 
 > Triste tigre de  Neige Sinno (ISBN-13 [9782818058268](https://isbndb.com/book/9782818058268)) 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
 
