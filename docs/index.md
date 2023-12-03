@@ -322,106 +322,106 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 ### Listening...
   
 > Kid Francescoli - Lovers 
-(Yotanka Records)
+`Yotanka Records`
 
 > Massive Attack - Blue Lines
-(Virgin, Circa, Wild Bunch Records)
+`Virgin, Circa, Wild Bunch Records`
 
 > Rockers Hi-Fi - DJ-Kicks: The Black Album
-(!K7 Records)
+`!K7 Records`
 
 > Basement Jaxx - Good Luck
-(XL Recordings)
+`XL Recordings`
 
 > Coldcut - Man In A Garage
-(Ninja Tune)
+`Ninja Tune`
 
 > Sascha Funke - Bravo
-(BPitch Control)
+`BPitch Control`
 
 > Amon Tobin - Mission
-(Ninja Tune)
+`Ninja Tune`
 
 > DJ Cam - Underground Vibes
-(Attytude Recordings)
+`Attytude Recordings`
 
 > MC Solaar - Caroline
-(Polydor)
+`Polydor`
 
 > DJ Vadim - Feel Up Vol.1
-(Soulbeats Records)
+`Soulbeats Records`
 
 > Massive Attack - Protection
-(Circa,  Wild Bunch Recordings)
+`Circa,  Wild Bunch Recordings`
 
 > Massive Attack - Mezzanine
-(Circa, Virgin)
+`Circa, Virgin`
 
 > Grand Corps Malade - Mesdames
-(Anouche Productions)
+`Anouche Productions`
 
-> Justice - † (Cross)
-(Ed Banger Records, Because Music)
+> Justice - † `Cross`
+`Ed Banger Records, Because Music`
   
 > Kruder & Dorfmeister - The K&D Sessions™
-(!K7 Records, G-Stone Recordings)
+`!K7 Records, G-Stone Recordings`
 
 > DJ Cam - Lost Found 2
-(Attytude Records)
+`Attytude Records`
 
 > Jamiroquai - Travelling Without Moving
-(Sony Music)
+`Sony Music`
 
 > Bonobo - The North Borders
-(Ninja Tune)
+`Ninja Tune`
 
 > Transglobal Underground - Psychic Karaoke
-(Nation Records)
+`Nation Records`
 
 > Bonobo - Fragments
-(Ninja Tune)
+`Ninja Tune`
 
 > DJ Krush - 漸 -Zen-
-(Columbia, Music On Vinyl)
+`Columbia, Music On Vinyl`
 
 > Hot Chip - In Our Heads
-(Domino)
+`Domino`
 
 > Neil Young - Harvest
-(Reprise Records)
+`Reprise Records`
 
 > DJ Cam - The Beat Assassinated
-(Inflamable)
+`Inflamable`
 
 > Morcheeba - Big Calm
-(Indochina)
+`Indochina`
 
 > Suprême NTM - Suprême NTM
-(Epic, Legacy)
+`Epic, Legacy`
 
 > DJ Cam Quartet - Rebirth Of Cool
-(Attytude Records)
+`Attytude Records`
 
 > Tricky - Maxinquaye
-(4th & Broadway, UMC)
+`4th & Broadway, UMC`
 
 > Asian Dub Foundation - Facts And Fictions
-(Nation Records)
+`Nation Records`
 
 > Roots Manuva - Facety 2:11
-(Big Dada Recordings)
+`Big Dada Recordings`
 
 > DJ Shadow - Endtroducing.....
-(UMC, Mo Wax, Island Records)
+`UMC, Mo Wax, Island Records`
 
 > Bonobo - Migration
-(Ninja Tune)
+`Ninja Tune`
 
-> Nirvana - Nevermind (30th Anniversary Edition)
-(Geffen Records, UMe, Sub Pop) 
+> Nirvana - Nevermind `30th Anniversary Edition`
+`Geffen Records, UMe, Sub Pop` 
 
 > Portishead - Dummy
-(Go! Beat)
+`Go! Beat`
 
 ::: tip See my collection on Discogs
 [Collection on Discogs](https://www.discogs.com/fr/user/magikcypress/collection)
