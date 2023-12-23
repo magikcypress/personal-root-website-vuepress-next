@@ -321,7 +321,7 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 
 ### Listening...
 
-::: tip OpenAI say for : "Can you see me a top 10 aof eletronic music for 2023"
+::: tip OpenAI say for : "Can you see me a top 10 of eletronic music for 2023?"
 <OpenAi/>
 :::
   
