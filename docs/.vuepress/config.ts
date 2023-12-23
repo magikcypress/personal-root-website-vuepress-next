@@ -199,5 +199,6 @@ export default {
   define: {
     chatid: process.env.CHATID,
     botkey: process.env.BOTKEY,
+    openapikey: process.env.OPENAIKEY,
   },
 }

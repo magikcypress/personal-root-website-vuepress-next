@@ -6,6 +6,7 @@ import ButtonTelegram from './components/ButtonTelegram.vue'
 import ButtonBuyCoffee from './components/ButtonBuyCoffee.vue'
 import ButtonGoLive from './components/ButtonGoLive.vue'
 import Blog from './components/Blog.vue'
+import OpenAi from './components/OpenAi.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -15,6 +16,7 @@ export default defineClientConfig({
     app.component('ButtonBuyCoffee', ButtonBuyCoffee)
     app.component('ButtonGoLive', ButtonGoLive)
     app.component('Blog', Blog)
+    app.component('OpenAi', OpenAi)
   },
   setup() {},
   rootComponents: [Footer],

@@ -120,6 +120,14 @@ strong {
   display: block;
 }
 
+pre {
+  color: var(--c-text-lighter);
+  display: block;
+  padding: 0;
+  margin: 0;
+  white-space: pre-line;
+}
+
 @media all {
   hr {
     position:relative;
