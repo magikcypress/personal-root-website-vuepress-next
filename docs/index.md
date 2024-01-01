@@ -138,6 +138,21 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view ;)
 
+> Au prochain arrêt de Hiro Arikawa (ISBN-13 [9782330150129](https://isbndb.com/book/9782330150129)) `Éditions Actes Sud`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> Demain dès l'aube de Caroline de Bodinat (ISBN-13 [9782080420701](https://isbndb.com/book/9782080420701)) `Flammarion`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Tant que le café est encore chaud de Toshikazu Kawaguchi (ISBN-13 [9782226458506](https://isbndb.com/book/9782226458506)) `Albin Michel`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
+> Psychopompe de Amélie Nothomb (ISBN-13 [9782226485618](https://isbndb.com/book/9782226485618)) `Albin Michel`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+
+> Home de Toni Morrison (ISBN-13 [9780099555940](https://isbndb.com/book/9780099555940)) `Bourgois`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+
 > Les miracles du bazar Namiya de Keigo Higashino (ISBN-13 [9782330157128](https://isbndb.com/book/9782330157128)) `Babel`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
 

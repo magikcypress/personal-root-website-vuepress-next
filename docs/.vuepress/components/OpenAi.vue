@@ -35,7 +35,7 @@ export default {
                     "model": "gpt-3.5-turbo", "messages": [
                         {
                             "role": "system",
-                            "content": "Can you see me a top 10 of eletronic music for 2023"
+                            "content": "Can you see me a top 10 of eletronic music for 2023?"
                         },
                         {
                             "role": "user",
