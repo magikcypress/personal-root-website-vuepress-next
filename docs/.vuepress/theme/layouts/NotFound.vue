@@ -1,7 +1,3 @@
-<script setup>
-import NotFound from '@vuepress/theme-default/layouts/NotFound.vue'
-</script>
-
 <template>
   <p v-if="selectedImage"><img style="width:100%" :src="selectedImage" alt=""></p>
 </template>
