@@ -7,6 +7,8 @@ import ButtonBuyCoffee from './components/ButtonBuyCoffee.vue'
 import ButtonGoLive from './components/ButtonGoLive.vue'
 import Blog from './components/Blog.vue'
 import OpenAi from './components/OpenAi.vue'
+import Layout from './theme/layouts/Layout.vue'
+import NotFound from './theme/layouts/NotFound.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -20,4 +22,8 @@ export default defineClientConfig({
   },
   setup() {},
   rootComponents: [Footer],
+  layouts: {
+    Layout,
+    NotFound,
+  }
 })

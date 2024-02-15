@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-669be5fc","path":"/travel/Bresil.html","title":"Brazil","lang":"en-US","frontmatter":{"sidebar":false,"prev":"./Vietnam","next":"./AmeriqueduSud"},"excerpt":"","headers":[],"git":{"updatedTime":1665842596000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"travel/Bresil.md"}');export{e as data};

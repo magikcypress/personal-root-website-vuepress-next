@@ -1,5 +1,7 @@
 <template>
 
+        <blockquote><a href="/blog/Cookies">Cookies</a> - <b>[02/15/2023]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
+
         <blockquote><a href="/blog/Bill-Internet-Provider">Bill On My Internet Provider</a> - <b>[09/06/2023]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
 
         <blockquote><a href="/blog/Depreciate-Key-Brookworm">Depreciate Key Debian Brookworm</a> - <b>[08/09/2023]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
