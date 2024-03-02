@@ -1,7 +1,7 @@
 ---
 sidebar: false
 prev: ./Bill-Internet-Provider
-next: ./
+next: ./Balade-Marseille
 ---
 
 # Cookies
