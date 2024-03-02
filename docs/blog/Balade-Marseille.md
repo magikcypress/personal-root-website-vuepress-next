@@ -6,7 +6,7 @@ next: ./
 
 # Balade Marseille
 
-Comment passer une belle journée à au vieux port de Marseille.
+Comment passer une belle journée au vieux port de Marseille.
 
 ![marseille-panier.jpg](/img/marseille002.gif)
 
