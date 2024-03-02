@@ -54,7 +54,7 @@ Comment passer une belle journée au vieux port de Marseille.
   
 #### Le second restaurant *Café Simon* propose un menu plus méditérannée. Sardines, Salades, etc
 
-#### Les deux restaurants possédent des terrasses et sont calmes. *Penser a réserver.*
+#### Les deux restaurants possédent des terrasses au calme. *Penser a réserver.*
 
 ## Aller faire une balade sur le vieux port
 
