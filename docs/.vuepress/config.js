@@ -147,8 +147,6 @@ export default defineUserConfig({
     }
   }),
 
-  bundler: viteBundler(),
-
   build: {
     rollupOptions: {
       external: [
@@ -156,7 +154,9 @@ export default defineUserConfig({
         'leaflet',
       ]
     }
-  },  
+  }, 
+  
+  bundler: viteBundler(),  
 
   define: {
     chatid: process.env.CHATID,
