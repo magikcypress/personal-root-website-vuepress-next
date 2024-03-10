@@ -149,6 +149,15 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
 
+  build: {
+    rollupOptions: {
+      external: [
+        '@vue-leaflet/vue-leaflet',
+        'leaflet',
+      ]
+    }
+  },  
+
   define: {
     chatid: process.env.CHATID,
     botkey: process.env.BOTKEY,
