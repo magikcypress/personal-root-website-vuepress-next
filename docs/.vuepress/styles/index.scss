@@ -142,6 +142,12 @@ pre {
     height: 400px !important;
     margin: 0 auto;
   }
+}
+
+@media (min-width: 720px) {
+  .theme-container.no-sidebar .sidebar {
+    display: none !important;
+  }
 
   .sidebar {
     display: none !important;
@@ -151,12 +157,6 @@ pre {
   .page {
     padding-left: 0 !important;
   }  
-}
-
-@media (min-width: 720px) {
-  .theme-container.no-sidebar .sidebar {
-    display: none !important;
-  }
 
   hr {
     display: none;
