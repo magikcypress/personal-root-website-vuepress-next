@@ -1,10 +1,14 @@
 ---
 sidebar: false
-prev: ./Eze
-next: ./Crush
+prev: 
+  text: Eze
+  link: ./Eze
+next: 
+  text: Crush
+  link: ./Crush
 ---
 
-# Bonjour Aurélie,
+# Bonjour Aurélie
 
 J’espère que vous allez bien ?
 

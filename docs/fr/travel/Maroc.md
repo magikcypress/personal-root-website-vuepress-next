@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: false
-next: ./Vietnam
+prev: 
+  text: Travel
+  link: ./
+next: 
+  text: Vietnam
+  link: ./Vietnam
 ---
 
 # Maroc

@@ -10,22 +10,17 @@
 
 <script>
 export default {
-  name: "NotFound",
-  data: {
+  name: 'NotFound',
+  data() {
     images: [
       'https://picsum.photos/200/200',
       'https://picsum.photos/600/200',
       'https://picsum.photos/600/200'
-    ],
-    selectedImage: null
-  },
-  methods: {
-    randomItem (items) {
-      return items[Math.floor(Math.random()*items.length)];
-    }
+    ]
   },
   created() {
-    this.selectedImage = this.randomItem(this.images)
+    const idx = Math.floor(Math.random() * this.images.length);
+    this.selectedImage = this.images[idx]
   }
 }
 </script>

@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Abreviations-M
-next: ./Bill-Internet-Provider
+prev: 
+  text: Abreviations M
+  link: ./Abreviations-M
+next: 
+  text: Billing Internet Provider
+  link: ./Bill-Internet-Provider
 ---
 
 # Depreciate Key Debian Brookworm

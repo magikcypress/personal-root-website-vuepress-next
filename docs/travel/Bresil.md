@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Vietnam
-next: ./AmeriqueduSud
+prev: 
+  text: Vietnam
+  link: ./Vietnam
+next: 
+  text: Amerique du Sud
+  link: ./AmeriqueduSud
 ---
 
 # Brazil

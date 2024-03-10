@@ -28,67 +28,13 @@ Mes stats GitHub propulsé par [github-readme-stats](https://github.com/anuragha
 
 Retrouver sur ce bien joli donut, mes compétences professionnelles et aussi personnelles que j'applique au quotidien.
 
-```chart
-{
-  "type": "doughnut",
-  "data": {
-    "datasets": [{
-      "data": [30, 20, 10],
-      "backgroundColor": [
-        "#d2d9e9",
-        "#a3cef1",
-        "#6096ba"
-      ]
-    }],
-    "labels": ["Ecoute", "Parler", "Amour"]
-  }
-}
-```
+<DonutChart />
 
 ### Héritage
 
 Retrouver sous cet objet, la courbe d'évolution de mes compétences au fil des années. En rouge, vous pouvez voir les prédictions sur l'avenir.
 
-```chart
-{
-  "type": "line",
-  "data": {
-    "labels": ["2000", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040"],
-    "datasets": [{
-      "label": "Héritage",
-      "data": [10, 20, 30, 40, 50, 60, 70, 89, 100],
-      "borderColor": "#d2d9e9",
-      "fill": {
-        "target": "origin",
-        "above": "#e4eaf4",
-        "below": "#6096ba"
-      },
-      "pointRadius": 5,
-      "backgroundColor": [
-        "#6096ba",
-        "#6096ba",
-        "#6096ba",
-        "#6096ba",
-        "#6096ba",
-        "#bc3908",
-        "#bc3908",
-        "#bc3908",
-        "#bc3908"
-      ]
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "ticks": {
-          "beginAtZero": true,
-          "callback": "function(value){ return ' ' + value + ' ki';  }"
-        }
-      }
-    }
-  }
-}
-```
+<LineChart />
 
 ::: tip Vie passée
 [Voir ma première vie professionnel](http://vincent.legeard.info/cv)
@@ -112,7 +58,7 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 <MapTravel/>
 
-::: tip  Réves passés 
+::: tip  Réves passés
 [Suivre mes voyages](/fr/travel/Maroc.html)
 :::
 
@@ -120,7 +66,7 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 ## Passion
 
-### Manger...
+### Manger
 
 Retrouver une sélection de restaurant Parisien que je mets régulièrement à jour.
 
@@ -132,79 +78,79 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ---
 
-### Lecture...
+### Lecture
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
 
 > Au prochain arrêt de Hiro Arikawa (ISBN-13 [9782330150129](https://isbndb.com/book/9782330150129)) `Éditions Actes Sud`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Demain dès l'aube de Caroline de Bodinat (ISBN-13 [9782080420701](https://isbndb.com/book/9782080420701)) `Flammarion`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Tant que le café est encore chaud de Toshikazu Kawaguchi (ISBN-13 [9782226458506](https://isbndb.com/book/9782226458506)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Psychopompe de Amélie Nothomb (ISBN-13 [9782226485618](https://isbndb.com/book/9782226485618)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Home de Toni Morrison (ISBN-13 [9780099555940](https://isbndb.com/book/9780099555940)) `Bourgois`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les miracles du bazar Namiya de Keigo Higashino (ISBN-13 [9782330157128](https://isbndb.com/book/9782330157128)) `Babel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Le liseur de Bernhard Schlink (ISBN-13 [9782070793938](https://isbndb.com/book/9782070793938)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les huit montagnes de Paolo Cognetti (ISBN-13 [9782253073871](https://isbndb.com/book/9782253073871)) `Stock`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > La vie devant soi de Romain Gary (ISBN-13 [9782070373628](https://isbndb.com/book/9782070373628)) `Le Mercure de France`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Le soleil des Scorta de Laurent Gaudé (ISBN-13 [9782810509577](https://isbndb.com/book/9782810509577)) `J'ai lu`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Veiller sur elle de Jean-Baptiste Andrea (ISBN-13 [9782378803759](https://isbndb.com/book/9782378803759)) `Iconoclaste`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Fuir l'Eden de Olivier Dorchamps (ISBN-13 [9782266328708](https://isbndb.com/book/9782266328708)) `Pocket`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Sensibilités de Tania de Montaigne (ISBN-13 [9782246814481](https://isbndb.com/book/9782246814481)) `Grasset`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Panorama de Lilia Hassaine (ISBN-13 [9782073035059](https://isbndb.com/book/9782073035059)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > La Colère et l'Envie de Alice Renard (ISBN-13 [9782350878966](https://isbndb.com/book/9782350878966)) `Héloïse d'Ormesson`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > L'enfant qui attendait un train de Jean d' Ormesson (ISBN-13 [9782350871240](https://isbndb.com/book/9782350871240)) `Héloïse d'Ormesson`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Le Syndrome du canal carpien de John Boyne (ISBN-13 [9782253244547](https://isbndb.com/book/9782253244547)) `Le Livre de Poche`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Miracle à la Combe aux Aspics de Ante Tomic (ISBN-13 [9782882506788](https://isbndb.com/book/9782882506788)) `Libretto`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Le Lâche de Jarred McGinnis (ISBN-13 [9791022612142](https://isbndb.com/book/9791022612142)) `Métailié`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Mon chien Stupide de John Fante (ISBN-13 [9782264013255](https://isbndb.com/book/9782264013255)) `12-21`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > La famille de Naomi Krupitsky (ISBN-13 [9782073006691](https://isbndb.com/book/9782073006691)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Mon mari de Maud Ventura (ISBN-13 [9782493909213](https://isbndb.com/book/9782493909213)) `Collection Proche`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Le choix de Viola Ardone (ISBN-13 [9782226471413](https://isbndb.com/book/9782226471413)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: danger Le choix de Viola Ardone
 Dire oui, même un âne sait le faire, alors que dire non est difficile, mais une fois qu’on a commencé on n’arrête
@@ -212,66 +158,66 @@ plus
 :::
 
 > La Révolution Multivers de Florence Verzelen (ISBN-13 [9791037022141](https://isbndb.com/book/9791037022141)) `Hermann`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Reine de coeur de Akira Mizubayashi (ISBN-13 [9782072984051](https://isbndb.com/book/9782072984051)) `Folio`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Quand tu écouteras cette chanson de Lola Lafon (ISBN-13 [9782253245209](https://isbndb.com/book/9782253245209)) `Stock`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > L'Enfant de la prochaine aurore de Louise Erdrich (ISBN-13 [9782253936886](https://isbndb.com/book/9782253936886)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les Vertueux de Yasmina Khadra (ISBN-13 [9782266332477](https://www.isbndb.com/book/9782266332477)) `Mialet Barrault`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Eldorado de Laurent Gaudé (ISBN-13 [9782264003577](https://www.isbndb.com/book/9782264003577)) `J'ai lu`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: danger Eldorado de Laurent Gaudé
 Les hommes n'étaient décidement beaux que des décisions qu'ils prennent.
 :::
 
 > Les gens de Bilbao naissent où ils veulent de Maria Larrea (ISBN-13 [9782246831969](https://www.isbndb.com/book/9782246831969)) `Grasset`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Ceux que je suis de Olivier Dorchamps (ISBN-13 [9782363391186](https://www.isbndb.com/book/9782363391186)) `Finitude`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Le train des enfants de Viola Ardone (ISBN-13 [9782226442017](https://www.isbndb.com/book/9782226442017)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les Femmes du bout du monde de Mélissa Da Costa (ISBN-13 [9782226472724](https://www.isbndb.com/book/9782226472724)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les guerres intérieures de Valérie Tong Cuong (ISBN-13 [9782253102021](https://www.isbndb.com/book/9782253102021)) `JC Lattès`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Le dialogue de Simon Johannin (ISBN-13 [9791030430011](https://www.isbndb.com/book/9791030430011)) `Allia`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: danger Le dialogue de Simon Johannin
 « Si tu aimes avec ce cœur que j’ai vu se battre comme seuls les lions se battent, si tu changes tes intentions, si ce combat contre le mauvais sort du monde devient le vent fort de l’amour, alors plutôt que de boire et de vider les peines, tu pourras regarder ailleurs, et amener autant de lumière dans ta vie que tu as vu de noirceur passer par d’autres pour te prendre. Je sens dans ton souffle que tu as des pouvoirs, qu’en feras-tu ? »
 :::
 
 > Déjà les mouches de Matthieu Peck (ISBN-13 [9782072976810](https://www.isbndb.com/book/9782072976810)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les meufs c'est des mecs bien de Mourad Winter (ISBN-13 [9782493865076](https://www.isbndb.com/book/9782493865076)) `Clique éditions`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les Promises de Jean-Christophe Grangé (ISBN-13 [9782253195542](https://www.isbndb.com/book/9782253195542)) `Albin Michel`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > La chauve-souris et le capital: Stratégie pour l'urgence chronique de Andreas Malm (ISBN-13 [9782358722032](https://www.isbndb.com/book/9782358722032)) `La Fabrique`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Une femme fuyant l'annonce de David Grossman (ISBN-13 [9782757883341](https://www.isbndb.com/book/9782757883341)) `Points`
-<span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span> 
+<span class="rating">☆</span><span>☆</span><span>☆</span><span>☆</span>
 
 > La Mort immortelle de Cixin Liu (ISBN-13 [9782330143190](https://www.isbndb.com/book/9782330143190)) `Actes Sud`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆-</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆-</span><span class="rating">☆</span>
 
 > La forêt sombre de Cixin Liu (ISBN-13 [9782330125110](https://www.isbndb.com/book/9782330125110)) `Actes Sud`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
@@ -287,13 +233,13 @@ L’Univers est une forêt sombre dans laquelle chaque civilisation est un chass
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
 > Judas de Amos Oz (ISBN-13 [9782072924903](https://www.isbndb.com/book/9782072924903))  `Folio`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbndb.com/book/9782072924903)) `Folio`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbndb.com/book/9782072767548)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
 
 > Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbndb.com/book/9782070402472)) `Gallimard`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
@@ -306,16 +252,16 @@ Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par l
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
 > Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.isbndb.com/book/9782253127536)) `Le Livre de Poche`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbndb.com/book/9782710388586)) `Editions de la Table Ronde`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 > Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbndb.com/book/9782266300872)) `Michel Lafon`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
->  La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbndb.com/book/9782410004755)) `Belin éducation`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span> 
+> La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbndb.com/book/9782410004755)) `Belin éducation`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: tip Idées de livre
 [Ce que j'ai déjà lu ...](/fr/passion/)
@@ -327,15 +273,15 @@ Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par l
 
 ---
 
-### Stream en direct...
+### Stream en direct
 
 Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live personnel](https://live.rouquin.me/).
 
 ---
 
-### Ecoute...
+### Ecoute
   
-> Kid Francescoli - Lovers 
+> Kid Francescoli - Lovers
 `Yotanka Records`
 
 > Massive Attack - Blue Lines
@@ -432,7 +378,7 @@ Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live perso
 `Ninja Tune`
 
 > Nirvana - Nevermind `30th Anniversary Edition`
-`Geffen Records, UMe, Sub Pop` 
+`Geffen Records, UMe, Sub Pop`
 
 > Portishead - Dummy
 `Go! Beat`

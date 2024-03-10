@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./ours
-next: ./Eze
+prev: 
+  text: Ours
+  link: ./ours
+next: 
+  text: Eze
+  link: ./Eze
 ---
 
 # Odd Command line

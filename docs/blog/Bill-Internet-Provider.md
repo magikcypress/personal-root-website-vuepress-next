@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Abreviations-M
-next: ./Cookies
+prev: 
+  text: Abreviations M
+  link: ./Abreviations-M
+next: 
+  text: Cookies
+  link: ./Cookies
 ---
 
 # Bill On My Internet Provider

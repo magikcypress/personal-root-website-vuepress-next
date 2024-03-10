@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./OddCommand-1
-next: ./Abreviations-M
+prev: 
+  text: Gaufrette
+  link: ./Gaufrette
+next: 
+  text: Abreviations M
+  link: ./Abreviations-M
 ---
 
 # Odd Command line

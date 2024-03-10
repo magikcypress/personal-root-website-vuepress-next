@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Liban
-next: ./Japon
+prev: 
+  text: Liban
+  link: ./Liban
+next: 
+  text: Japon
+  link: ./Japon
 ---
 
 # Canada

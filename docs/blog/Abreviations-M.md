@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./OddCommand-1
-next: ./Depreciate-Key-Brookworm
+prev: 
+  text: Odd Command 1
+  link: ./OddCommand-1
+next: 
+  text: Depreciate Key Brookworm
+  link: ./Depreciate-Key-Brookworm
 ---
 
 # Abréviation Monsieur

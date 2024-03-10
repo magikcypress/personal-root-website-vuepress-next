@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Bill-Internet-Provider
-next: ./Balade-Marseille
+prev: 
+  text: Billing Internet Provider
+  link: ./Bill-Internet-Provider
+next: 
+  text: Balade à Marseille
+  link: ./Balade-Marseille
 ---
 
 # Cookies

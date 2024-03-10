@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Bresil
-next: ./Liban
+prev: 
+  text: Brésil
+  link: ./Bresil
+next: 
+  text: Liban
+  link: ./Liban
 ---
 
 # South America

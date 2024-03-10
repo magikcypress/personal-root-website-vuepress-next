@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./AmeriqueduSud
-next: ./Canada
+prev: 
+  text: Amerique du Sud
+  link: ./AmeriqueduSud
+next: 
+  text: Canada
+  link: ./Canada
 ---
 
 # Lebanon

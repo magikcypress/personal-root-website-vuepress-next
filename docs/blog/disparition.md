@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./ours
-next: ./OddCommand
+prev: 
+  text: Ours
+  link: ./ours
+next: 
+  text: Odd Command
+  link: ./OddCommand
 ---
 
 # Disparition

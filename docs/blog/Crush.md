@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Eze
-next: ./Gaufrette
+prev: 
+  text: Eze
+  link: ./Eze
+next: 
+  text: Gaufrette
+  link: ./Gaufrette
 ---
 
 # Crush

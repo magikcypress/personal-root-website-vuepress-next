@@ -1,10 +1,14 @@
 ---
 sidebar: false
-prev: ./OddCommand
-next: ./Anniv
+prev: 
+  text: Odd Command
+  link: ./OddCommand
+next: 
+  text: Anniv
+  link: ./Anniv
 ---
 
-# Bonjour Sarah,
+# Bonjour Sarah
 
 J’espère que vous allez bien ?
 

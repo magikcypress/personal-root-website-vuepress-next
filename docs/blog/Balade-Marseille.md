@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Cookies
-next: ./
+prev: 
+  text: Cookies
+  link: ./Cookies
+next: 
+  text: Blog
+  link: ./
 ---
 
 # Balade Marseille

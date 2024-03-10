@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./Canada
-next: false
+prev: 
+  text: Canada
+  link: ./Canada
+next: 
+  text: Travel
+  link: ./
 ---
 
 # Japan

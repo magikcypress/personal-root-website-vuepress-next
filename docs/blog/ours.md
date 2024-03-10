@@ -1,7 +1,11 @@
 ---
 sidebar: false
-prev: ./
-next: ./disparition
+prev: 
+  text: Blog
+  link: ./
+next: 
+  text: Disparition
+  link: ./disparition
 ---
 
 # L'ours
