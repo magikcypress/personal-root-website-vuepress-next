@@ -92,21 +92,6 @@ hr {
   border: none;
 }
 
-#my-doughnut-id {
-  width: 400px !important;
-  height: 400px !important;
-  margin: 0 auto;
-}
-
-.sidebar {
-  display: none !important;
-  visibility: hidden !important;
-}
-
-.page {
-  padding-left: 0 !important;
-}
-
 label {
   color: #aaa;
   font-size: 2em;
@@ -151,6 +136,21 @@ pre {
     left: calc(700px - 100%) !important;
     width: calc(80px + 100%) !important;
   }
+
+  #my-doughnut-id {
+    width: 400px !important;
+    height: 400px !important;
+    margin: 0 auto;
+  }
+
+  .sidebar {
+    display: none !important;
+    visibility: hidden !important;
+  }
+  
+  .page {
+    padding-left: 0 !important;
+  }  
 }
 
 @media (min-width: 720px) {
@@ -165,11 +165,12 @@ pre {
     font-size: 1.15rem !important;
   }
 
-  hr {
-    position: relative;
-    left: calc(0px - 100%) !important;
-    width: calc(295px + 100%) !important;
+  #my-doughnut-id {
+    width: 250px !important;
+    height: 250px !important;
+    margin: 0 auto;
   }
+
 }
 
 // narrow desktop / iPad
