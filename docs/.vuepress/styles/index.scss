@@ -157,6 +157,11 @@ pre {
   .theme-container.no-sidebar .sidebar {
     display: none !important;
   }
+
+  hr {
+    display: none;
+    visibility: hidden;
+  }  
 }
 
 // wide mobile
@@ -169,6 +174,11 @@ pre {
     width: 250px !important;
     height: 250px !important;
     margin: 0 auto;
+  }
+
+  hr {
+    display: none;
+    visibility: hidden;
   }
 
 }
