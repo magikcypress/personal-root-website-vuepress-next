@@ -81,7 +81,51 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 ### Lecture
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue ;)
+Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue 😜
+
+> Là où les arbres rencontrent les étoiles de Glendy Vanderah (ISBN-13 [9782368127261](https://isbndb.com/book/9782368127261)) `Charleston`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Une machine comme moi de Ian McEwan (ISBN-13 [9782072849978](https://isbndb.com/book/9782072849978)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070341924](https://isbndb.com/book/9782070341924)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Une façon d’aimer de  Dominique Barbéris (ISBN-13 [9782073032362](https://isbndb.com/book/9782073032362)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070341924](https://isbndb.com/book/9782070341924)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070341924](https://isbndb.com/book/9782070341924)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Un animal sauvage de Joël Dicker (ISBN-13 [9782889730476](https://isbndb.com/book/9782889730476)) `Rosie & Wolfe`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Le Café du temps retrouvé de Toshikazu Kawaguchi (ISBN-13 [9782226475343](https://isbndb.com/book/9782226475343)) `Albin Michel`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Fantasia: Contes et légendes de l'intelligence artificielle de Laura Sibony (ISBN-13 [9782246833482](https://isbndb.com/book/9782246833482)) `Grasset`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger Fantasia: Contes et légendes de l'intelligence artificielle de Laura Sibony
+Un signal électrique, dans le cerveau, va environ cent mille fois moins vite que dans une puce de silicium. Le compte est bon... et le calcul vite fait. L'espèce humaine ne fera bientôt plus le poids.
+:::
+
+> D'or et de jungle de Jean-Christophe Rufin (ISBN-13 [9782702187548](https://isbndb.com/book/9782702187548)) `Calmann-Lévy`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> La Véritable histoire d'un Indien qui fit 7.000 km à vélo par amour de Per J. Andersson (ISBN-13 [9782266257275](https://isbndb.com/book/9782266257275)) `Pocket`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Python de Nathalie Azoulai (ISBN-13 [9782818058664](https://isbndb.com/book/9782818058664)) `POL`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger Python de Nathalie Azoulai
+Une seule virgule manquante, le plus petit oubli pénalise toute la ligne. La machine rechigne, le programme ne s'exécute pas. Après quelques années, on peut faire baisser cette marge d'erreur à 35 % mais même avec beaucoup d'expérience, il reste une marge incompressible, inhérente au code, environ 30 %. L'idée, c'est de toujours inventer, essayer des choses nouvelles, ajouter des fonctionnalités.
+:::
 
 > Au prochain arrêt de Hiro Arikawa (ISBN-13 [9782330150129](https://isbndb.com/book/9782330150129)) `Éditions Actes Sud`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
@@ -233,34 +277,6 @@ L’Univers est une forêt sombre dans laquelle chaque civilisation est un chass
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
 
 > Judas de Amos Oz (ISBN-13 [9782072924903](https://www.isbndb.com/book/9782072924903))  `Folio`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbndb.com/book/9782072924903)) `Folio`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-> La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbndb.com/book/9782072767548)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
-
-> Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbndb.com/book/9782070402472)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-::: danger Les années de Annie Ernaux
-Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par leur biographie, disaient « Monsieur » André Malraux, « Madame » Yourcenar en signe de respect pour leur personne vivante et ne faisaient étudier que des auteurs morts.
-:::
-
-> Chanson douce de Leïla Slimani (ISBN-13 [9782072764929](https://www.isbndb.com/book/9782072764929)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
-
-> Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.isbndb.com/book/9782253127536)) `Le Livre de Poche`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-> Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbndb.com/book/9782710388586)) `Editions de la Table Ronde`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-> Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbndb.com/book/9782266300872)) `Michel Lafon`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
-> La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbndb.com/book/9782410004755)) `Belin éducation`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 ::: tip Idées de livre

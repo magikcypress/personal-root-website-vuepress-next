@@ -8,14 +8,37 @@ Retrouver mes lectures au fil de l'eau.
 Volontairement, je ne classe pas les livres par date ou par appéciation.  
 
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-Les évaluations de chaques livres reste mon point de vue et uniquement mon point de vue ;)  
+Les évaluations de chaques livres reste mon point de vue et uniquement mon point de vue 😜  
 
 ## Lecture...
 
+> Choses qui rendent heureux et autres notes de chevet de Sei Shônagon (ISBN-13 [9782072924903](https://www.isbndb.com/book/9782072924903)) `Folio`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-The evaluations of each book remain my point of view and only my point of view;)
 
-## Reading in French...
+> La délicatesse de David Foenkinos (ISBN-13 [9782072767548](https://www.isbndb.com/book/9782072767548)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span>☆</span>
+
+> Les années de Annie Ernaux (ISBN-13 [9782070402472](https://www.isbndb.com/book/9782070402472)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+::: danger Les années de Annie Ernaux
+Dans les amphis les profs cravatés expliquaient l’œuvre des écrivains par leur biographie, disaient « Monsieur » André Malraux, « Madame » Yourcenar en signe de respect pour leur personne vivante et ne faisaient étudier que des auteurs morts.
+:::
+
+> Chanson douce de Leïla Slimani (ISBN-13 [9782072764929](https://www.isbndb.com/book/9782072764929)) `Gallimard`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>  
+
+> Je sais pourquoi chante l'oiseau en cage de Maya Angelou (ISBN-13 [9782253127536](https://www.isbndb.com/book/9782253127536)) `Le Livre de Poche`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Étés anglais (Tome I): La saga des Cazalet de Elizabeth Jane Howard (ISBN-13 [9782710388586](https://www.isbndb.com/book/9782710388586)) `Editions de la Table Ronde`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> Les gens heureux lisent et boivent du café de Agnès Martin-Lugand (ISBN-13 [9782266300872](https://www.isbndb.com/book/9782266300872)) `Michel Lafon`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
+> La place de Annie Ernaux (ISBN-13 [9782410004755](https://www.isbndb.com/book/9782410004755)) `Belin éducation`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
 >  Kilomètre zéro de Maud Ankaoua (ISBN-13 [9782290210512](https://www.isbndb.com/book/9782290210512)) `Eyrolles`
 <span class="rating">☆</span><span class="rating">☆</span><span>☆</span><span>☆</span> 
