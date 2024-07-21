@@ -1,12 +1,12 @@
 import { defaultTheme } from '@vuepress/theme-default'
-import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { defineConfig } from 'vite'
 
 import * as dotenv from 'dotenv'
 
 dotenv.config()
 
-export default defineUserConfig({
+export default defineConfig({
 
   title: 'Personal Root Website',
   description: 'Personal Root Website - Passion, Travel, Music, Eating, Streaming',
