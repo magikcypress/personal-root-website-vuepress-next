@@ -4,8 +4,8 @@ prev:
   text: Cookies
   link: ./Cookies
 next: 
-  text: Blog
-  link: ./
+  text: Update my avatar with AI
+  link: ./AI-Avatar-Otter
 ---
 
 # Balade Marseille

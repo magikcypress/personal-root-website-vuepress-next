@@ -7,3 +7,9 @@ https://www.rouquin.me
 ## Installation
 
 https://v2.vuepress.vuejs.org/guide/getting-started.html#manual-installation
+
+## Run dev
+
+``` bash
+yarn docs:dev
+```

@@ -1,5 +1,11 @@
 <template>
 
+        <blockquote><a href="/blog/AI-Avatar-OpenAI">Update my avatar with AI (OpenAI)</a> - <b>[21/07/2024]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
+
+        <blockquote><a href="/blog/AI-Avatar-Cohere">Update my avatar with AI (Cohere)</a> - <b>[21/07/2024]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
+
+        <blockquote><a href="/blog/AI-Avatar-Otter">Update my avatar with AI (Cyber-Otter 2.0)</a> - <b>[21/07/2024]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
+
         <blockquote><a href="/blog/Balade-Marseille">Balade à Marseille</a> - <b>[03/02/2024]</b> - <Badge type="tip" text="fr" vertical="middle" /></blockquote>
 
         <blockquote><a href="/blog/Cookies">Cookies</a> - <b>[02/15/2024]</b> - <Badge type="tip" text="en" vertical="middle" /></blockquote>
