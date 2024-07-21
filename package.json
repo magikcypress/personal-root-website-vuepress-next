@@ -19,11 +19,11 @@
     "@vue-leaflet/vue-leaflet": "^0.10.1",
     "@vuepress/bundler-vite": "2.0.0-rc.8",
     "@vuepress/theme-default": "2.0.0-rc.19",
-    "chart.js": "^4.4.3",
+    "chart.js": "^4.4.2",
     "dotenv": "^16.4.5",
     "leaflet": "^1.9.4",
-    "vue": "^3.4.33",
-    "vue-chartjs": "^5.3.1",
+    "vue": "^3.4.21",
+    "vue-chartjs": "^5.3.0",
     "vuepress": "2.0.0-rc.8"
   }
 }

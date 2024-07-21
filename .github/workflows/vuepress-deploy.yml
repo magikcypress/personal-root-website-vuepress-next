@@ -33,7 +33,6 @@ jobs:
         echo OPENAIKEY="${{ secrets.OPENAIKEY }}"  >> .env
         cat .env
 
-
     # Run yarn specific version
     - name: Specific Yarn version
       run: yarn set version 1.22.21
