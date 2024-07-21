@@ -6,6 +6,9 @@
   "author": "cyp <cyp@duck.com>",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "yarn": "=1.22.21"
+  },
   "scripts": {
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
