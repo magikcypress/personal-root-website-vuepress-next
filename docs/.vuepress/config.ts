@@ -146,6 +146,14 @@ export default defineUserConfig({
       },
     }
   }),
+  build: {
+    rollupOptions: {
+      external: [
+        '@vue-leaflet/vue-leaflet',
+        'leaflet',
+      ]
+    }
+  }, 
   
   bundler: viteBundler(),  
 
