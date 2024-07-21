@@ -84,7 +84,9 @@ Find a selection of Parisian restaurants that I update frequently.
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 The evaluations of each book remain my point of view and only my point of view 😜
 
-<!-- ![Là où les arbres rencontrent les étoiles](https://images.isbndb.com/covers/72/61/9782368127261.jpg)-->
+> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070464791](https://isbndb.com/book/9782070464791)) `Folio`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
 > Là où les arbres rencontrent les étoiles de Glendy Vanderah (ISBN-13 [9782368127261](https://isbndb.com/book/9782368127261)) `Charleston`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
