@@ -83,6 +83,9 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 Les évaluations de chaques livres restent mon point de vue et uniquement mon point de vue 😜
 
+> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070464791](https://isbndb.com/book/9782070464791)) `Folio`
+<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
+
 > Là où les arbres rencontrent les étoiles de Glendy Vanderah (ISBN-13 [9782368127261](https://isbndb.com/book/9782368127261)) `Charleston`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
