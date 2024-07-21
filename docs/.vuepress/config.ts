@@ -1,12 +1,12 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
-import { defineConfig } from 'vite'
 
 import * as dotenv from 'dotenv'
 
 dotenv.config()
 
-export default defineConfig({
+export default defineUserConfig({
 
   title: 'Personal Root Website',
   description: 'Personal Root Website - Passion, Travel, Music, Eating, Streaming',
@@ -146,15 +146,6 @@ export default defineConfig({
       },
     }
   }),
-
-  build: {
-    rollupOptions: {
-      external: [
-        '@vue-leaflet/vue-leaflet',
-        'leaflet',
-      ]
-    }
-  }, 
   
   bundler: viteBundler(),  
 
