@@ -15,4 +15,4 @@ next:
 <img :src="$withBase('/img/canada.jpg')" alt="Cat on the wall">
 
 ::: tip
-[My Canada blog](http://canada.rouquin.me/) (French)
+[My Canada blog](https://canada.rouquin.me/) (French)

@@ -15,4 +15,4 @@ next:
 <img :src="$withBase('/img/ameriquedusud.jpg')" alt="Uyuni Salar couché de soleil">
 
 ::: tip
-[Blog Amérique du sud](http://ameriquedusud.rouquin.me/)
+[Blog Amérique du sud](https://ameriquedusud.rouquin.me/)

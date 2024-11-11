@@ -15,4 +15,4 @@ C'est mon deuxième voyage, avec la rencontre des vietnamiens et le plaisir de d
 <img :src="$withBase('/img/anchor.jpg')" alt="Sculpture de femme">
 
 ::: tip
-[Blog Vietnam](http://vietnam.rouquin.me/)
+[Blog Vietnam](https://vietnam.rouquin.me/)

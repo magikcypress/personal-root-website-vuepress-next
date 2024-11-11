@@ -15,4 +15,4 @@ next:
 <img :src="$withBase('/img/Liban.jpg')" alt="Boat at Batrum">
 
 ::: tip
-[My Lebanon blog](http://liban.rouquin.me/) (French)
+[My Lebanon blog](https://liban.rouquin.me/) (French)

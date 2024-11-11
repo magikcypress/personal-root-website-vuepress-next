@@ -16,4 +16,4 @@ Center, North and south
 <img :src="$withBase('/img/rue_bresil_zero.jpg')" alt="Street of Olinda">
 
 ::: tip
-[My Brazil blog](http://bresil.rouquin.me/) (French)
+[My Brazil blog](https://bresil.rouquin.me/) (French)

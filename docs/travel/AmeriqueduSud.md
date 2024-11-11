@@ -15,4 +15,4 @@ next:
 <img :src="$withBase('/img/ameriquedusud.jpg')" alt="Uyuni Salar sunset">
 
 ::: tip
-[My South America blog](http://ameriquedusud.rouquin.me/) (French)
+[My South America blog](https://ameriquedusud.rouquin.me/) (French)

@@ -15,4 +15,4 @@ This is my first trip, the one where I discovered how to travel by taking a hote
 <img :src="$withBase('/img/Maroc.jpg')" alt="Boat at Essaouira Marocco">
 
 ::: tip
-[My Marrocco blog](http://maroc.rouquin.me/) (French)
+[My Marrocco blog](https://maroc.rouquin.me/) (French)

@@ -15,4 +15,4 @@ C'est mon premier voyage, celui où j'ai découvert comment voyager en prenant u
 <img :src="$withBase('/img/Maroc.jpg')" alt="Bateaux dans le port Essaouira Marocco">
 
 ::: tip
-[Blog Maroc](http://maroc.rouquin.me/)
+[Blog Maroc](https://maroc.rouquin.me/)

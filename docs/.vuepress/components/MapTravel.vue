@@ -52,6 +52,7 @@
                 {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Canada.html'>Canada</a> 🇨🇦"},"geometry":{"type":"Point","coordinates":[-73.57386448166177, 45.50522497642091]}},
                 {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Liban.html'>Libanon</a> 🇱🇧"},"geometry":{"type":"Point","coordinates":[35.484732922562415, 33.90876886528679]}},
                 {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Japon.html'>Japan</a> 🇯🇵"},"geometry":{"type":"Point","coordinates":[139.7683256734573, 35.68210722765266]}},
+                {"type":"Feature","properties":{"_icon": "/img/maker-icon.png", "name":"<a href='/travel/Reunion.html'>Reunion Island</a> 🇯🇵"},"geometry":{"type":"Point","coordinates":[55.52385871780785, -21.123734097704965]}},
             ],
         },
         geojsonOptions: {

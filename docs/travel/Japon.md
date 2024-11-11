@@ -4,8 +4,8 @@ prev:
   text: Canada
   link: ./Canada
 next: 
-  text: Travel
-  link: ./
+  text: Réunion
+  link: ./Reunion
 ---
 
 # Japan
@@ -15,4 +15,4 @@ Big change ... Just ouahhhhhh
 <img :src="$withBase('/img/japon.jpg')" alt="Concentrated girl">
 
 ::: tip
-[My Japan blog](http://japon.rouquin.me/) (French)
+[My Japan blog](https://japon.rouquin.me/) (French)

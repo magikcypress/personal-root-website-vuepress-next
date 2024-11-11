@@ -15,4 +15,4 @@ next:
 <img :src="$withBase('/img/Liban.jpg')" alt="Bateau dans le port de Batrum">
 
 ::: tip
-[Blog Liban](http://liban.rouquin.me/)
+[Blog Liban](https://liban.rouquin.me/)

@@ -15,4 +15,4 @@ This is my second trip, with the meeting of people from vietnam and the pleasure
 <img :src="$withBase('/img/anchor.jpg')" alt="Women sculpture">
 
 ::: tip
-[My Vietnam blog](http://vietnam.rouquin.me/) (French)
+[My Vietnam blog](https://vietnam.rouquin.me/) (French)
