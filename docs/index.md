@@ -102,9 +102,6 @@ The evaluations of each book remain my point of view and only my point of view �
 > Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070341924](https://isbndb.com/book/9782070341924)) `Gallimard`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
-> Auprès de moi toujours de Kazuo Ishiguro (ISBN-13 [9782070341924](https://isbndb.com/book/9782070341924)) `Gallimard`
-<span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
-
 > Un animal sauvage de Joël Dicker (ISBN-13 [9782889730476](https://isbndb.com/book/9782889730476)) `Rosie & Wolfe`
 <span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span><span class="rating">☆</span>
 
