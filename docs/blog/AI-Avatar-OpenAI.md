@@ -4,8 +4,8 @@ prev:
   text: Update my avatar with AI (Cohere)
   link: ./AI-Avatar-Cohere
 next: 
-  text: Blog
-  link: ./
+  text: whatapp
+  link: ./whatapp
 ---
 
 # Update my avatar with AI (OpenAI)
@@ -21,4 +21,3 @@ After several attempts to redesign my avatar which was created in 1999 with Flas
 ::: tip Point of View
 My view of what OpenAI has just generated is that it doesn't have much imagination.
 :::
-
