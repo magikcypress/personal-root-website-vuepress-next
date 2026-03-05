@@ -8,9 +8,9 @@
 
 <script lang="ts">
 import { Line } from 'vue-chartjs'
-import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js'
+import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, Filler } from 'chart.js'
 
-ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend)
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, Filler)
 
 export default {
   name: 'my-line-id',
@@ -49,7 +49,7 @@ export default {
           y: {
             ticks: {
               beginAtZero: true,
-              callback: "function(value){ return ' ' + value + ' ki';  }"
+              callback: function(value) { return ' ' + value + ' ki'; }
             }
           }
         },

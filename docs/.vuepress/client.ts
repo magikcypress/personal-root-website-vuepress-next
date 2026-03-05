@@ -9,8 +9,8 @@ import Blog from './components/Blog.vue'
 import DonutChart from './components/DonutChart.vue'
 import LineChart from './components/LineChart.vue'
 import OpenAi from './components/OpenAi.vue'
-// import Layout from './theme/layouts/Layout.vue'
-// import NotFound from './theme/layouts/NotFound.vue'
+import BookList from './components/BookList.vue'
+import VinylList from './components/VinylList.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -23,6 +23,8 @@ export default defineClientConfig({
     app.component('OpenAi', OpenAi)
     app.component('DonutChart', DonutChart)
     app.component('LineChart', LineChart)
+    app.component('BookList', BookList)
+    app.component('VinylList', VinylList)
   },
   setup() { },
   rootComponents: [Footer],

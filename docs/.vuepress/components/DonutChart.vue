@@ -19,7 +19,7 @@ export default {
   data() {
     return {
       chartData: {
-        labels: ["Listen", "Speak", "Love"],
+        labels: ["Data & BI", "Code", "Music"],
         datasets: [
           {
             data: [30, 20, 10],
