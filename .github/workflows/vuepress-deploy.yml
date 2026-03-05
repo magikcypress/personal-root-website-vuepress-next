@@ -5,46 +5,41 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Setup Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
-        # choose node.js version to use
         node-version: '18'
 
     # cache node_modules
     - name: Cache dependencies
-      uses: actions/cache@v2
-      id: yarn-cache
+      uses: actions/cache@v4
+      id: npm-cache
       with:
         path: |
           **/node_modules
-        key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+        key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
-          ${{ runner.os }}-yarn-*
+          ${{ runner.os }}-npm-*
 
-    # Create env file for Telegram bot about hatid and botkey 
+    # Create env file for Telegram bot
     - name: 'Create env file'
+      env:
+        CHATID_VAL: ${{ secrets.CHATID }}
+        BOTKEY_VAL: ${{ secrets.BOTKEY }}
       run: |
         touch .env
-        echo CHATID=${{ secrets.CHATID }}  >> .env
-        echo BOTKEY="${{ secrets.BOTKEY }}"  >> .env
-        echo OPENAIKEY="${{ secrets.OPENAIKEY }}"  >> .env
-        cat .env
-
-    # Run yarn specific version
-    - name: Specific Yarn version
-      run: yarn set version 1.22.21
+        echo "CHATID=$CHATID_VAL" >> .env
+        echo "BOTKEY=$BOTKEY_VAL" >> .env
 
     # install dependencies if the cache did not hit
     - name: Install dependencies
-      run: yarn install
+      run: npm install
 
     # run build script
     - name: Build VuePress site
-      run: yarn docs:build
-      working-directory: ./docs/.vuepress/dist/
+      run: npm run docs:build
 
     - name: Install SSH Key
       uses: shimataro/ssh-key-action@v2
