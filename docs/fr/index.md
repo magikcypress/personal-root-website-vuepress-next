@@ -17,7 +17,7 @@ search: false
 - j'❤️ écrire du code
 - :ghost: SurnomWeb: cyp
 - ⚡ Fun fact: Aime les stickers
-- 🪴J'ai grandi avec 87 PPM
+- 🪴J'ai grandi avec [87 PPM](https://borninppm.com/)
 
 [![GitHub](https://img.shields.io/github/followers/magikcypress?label=Suivre&style=social)](https://github.com/magikcypress/) [![GitHub stars](https://img.shields.io/github/stars/magikcypress?affiliations=OWNER&style=social)](https://github.com/magikcypress?tab=repositories)
 

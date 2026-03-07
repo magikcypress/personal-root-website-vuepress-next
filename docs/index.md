@@ -17,7 +17,7 @@ search: false
 - I ❤️ to write code.
 - :ghost: Pronouns: cyp
 - ⚡ Fun fact: Love sticker
-- 🪴Grow up with +87 PPM
+- 🪴Grow up with [+87 PPM](https://borninppm.com/)
 
 [![GitHub](https://img.shields.io/github/followers/magikcypress?label=Follow&style=social)](https://github.com/magikcypress/) [![GitHub stars](https://img.shields.io/github/stars/magikcypress?affiliations=OWNER&style=social)](https://github.com/magikcypress?tab=repositories)
 
