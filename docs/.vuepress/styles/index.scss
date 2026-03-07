@@ -21,10 +21,24 @@ body {
   background: var(--c-bg) !important;
   max-width: 820px !important;
   border-bottom: solid var(--c-brand-light) 1px !important;
+  height: auto !important;
+  flex-wrap: wrap !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  padding-bottom: 0.5rem !important;
 }
 
 .vp-navbar .vp-site-name {
   font-size: 2.50rem !important;
+}
+
+.vp-navbar .vp-navbar-items-wrapper {
+  position: static !important;
+  width: 100% !important;
+  justify-content: center !important;
+  height: auto !important;
+  padding: 0 !important;
 }
 
 .theme-default-content {
@@ -396,6 +410,21 @@ h2:first-of-type {
 
 // wide mobile
 @media (max-width: 719px) {
+  .vp-navbar {
+    flex-direction: row !important;
+    align-items: center !important;
+    padding-bottom: 0 !important;
+    height: var(--navbar-height) !important;
+  }
+
+  .vp-navbar .vp-navbar-items-wrapper {
+    position: absolute !important;
+    right: var(--navbar-padding-h) !important;
+    top: var(--navbar-padding-v) !important;
+    width: auto !important;
+    justify-content: flex-end !important;
+  }
+
   .vp-navbar .vp-site-name {
     font-size: 1.15rem !important;
   }

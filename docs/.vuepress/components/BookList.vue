@@ -53,7 +53,7 @@ export default {
   },
   computed: {
     showFilter() {
-      return this.showAll
+      return this.showAll || this.limit === 0
     },
     filterPlaceholder() {
       return this.lang === 'fr' ? 'Filtrer par titre ou auteur...' : 'Filter by title or author...'
@@ -70,11 +70,11 @@ export default {
       )
     },
     visibleBooks() {
-      if (this.showAll) return this.filteredBooks
+      if (this.showAll || this.limit === 0) return this.filteredBooks
       return this.filteredBooks.slice(0, this.limit)
     },
     hasMore() {
-      return !this.showAll && this.filteredBooks.length > this.limit
+      return !this.showAll && this.limit > 0 && this.filteredBooks.length > this.limit
     },
     remaining() {
       return this.filteredBooks.length - this.limit

@@ -16,3 +16,4 @@ C'est mon premier voyage, celui où j'ai découvert comment voyager en prenant u
 
 ::: tip
 [Blog Maroc](https://maroc.rouquin.me/)
+

@@ -16,3 +16,4 @@ next:
 
 ::: tip
 [My Canada blog](https://canada.rouquin.me/) (French)
+

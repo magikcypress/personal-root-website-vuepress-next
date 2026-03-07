@@ -16,3 +16,4 @@ My trip to Reunion Island was an incredible adventure, filled with breathtaking 
 
 ::: tip
 [My Reunion blog](https://reunion.rouquin.me/) (French)
+

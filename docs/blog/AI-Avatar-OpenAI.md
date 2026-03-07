@@ -21,3 +21,4 @@ After several attempts to redesign my avatar which was created in 1999 with Flas
 ::: tip Point of View
 My view of what OpenAI has just generated is that it doesn't have much imagination.
 :::
+

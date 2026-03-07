@@ -77,3 +77,4 @@ Ouais, tu peux leur retourner le truc en mode :
 Avec un petit ton dramatique pour bien appuyer l’injustice de la situation, ça peut les faire réfléchir… ou au moins les faire culpabiliser un peu !
 
 Feb 20, 2025
+

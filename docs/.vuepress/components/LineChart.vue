@@ -49,7 +49,7 @@ export default {
           y: {
             ticks: {
               beginAtZero: true,
-              callback: function(value) { return ' ' + value + ' ki'; }
+              callback: function(value) { return value + '%'; }
             }
           }
         },

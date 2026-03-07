@@ -23,3 +23,4 @@ No specific interest for this command line
 June 10, 2023
 
 [1] : [tldr wget pages](https://tldr.inbrowser.app/pages/common/wget)
+

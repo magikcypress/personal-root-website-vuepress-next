@@ -59,3 +59,4 @@ The noise has been removed from the image.
 ## __Q:__ What this model ?
 
 This model is known as the "Cyber-Otter 2.0," an upgraded version of the original "Cyber-Otter" design, featuring enhanced visual effects and a bolder, more vibrant color palette.
+

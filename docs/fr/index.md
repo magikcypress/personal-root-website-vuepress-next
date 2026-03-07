@@ -19,9 +19,7 @@ search: false
 - ⚡ Fun fact: Aime les stickers
 - 🪴J'ai grandi avec 87 PPM
 
-Mes stats GitHub propulsé par [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
-
-[![Magikcypress's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magikcypress&hide_progress=true)](https://github.com/magikcypress/)
+[![GitHub](https://img.shields.io/github/followers/magikcypress?label=Suivre&style=social)](https://github.com/magikcypress/) [![GitHub stars](https://img.shields.io/github/stars/magikcypress?affiliations=OWNER&style=social)](https://github.com/magikcypress?tab=repositories)
 
 ### Compétences
 
@@ -44,10 +42,6 @@ Retrouver sous cet objet, la courbe d'évolution de mes compétences au fil des 
 <Blog :limit="5" lang="fr" />
 
 ## Voyages
-
-::: tip Indisponible
-Actuellement les blogs de voyage du rouquin dans la zone Amérique du Sud sont indisponibles
-:::
 
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
@@ -98,3 +92,4 @@ Parfois, je passe des vinyl chez moi & je stream sur mon [serveur web live perso
 :::
 
 <Button/>
+

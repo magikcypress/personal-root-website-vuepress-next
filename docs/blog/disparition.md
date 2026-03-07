@@ -27,3 +27,4 @@ Moi, je suis devenu éducateur. Mon expérience en communication et en manipulat
 Nos vies ont complétement changé et ce qu'elle nous propose nous rends heureux. Tous les deux nous sommes heureux.
 
 Oct 22, 2022
+

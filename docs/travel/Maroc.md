@@ -16,3 +16,4 @@ This is my first trip, the one where I discovered how to travel by taking a hote
 
 ::: tip
 [My Marrocco blog](https://maroc.rouquin.me/) (French)
+

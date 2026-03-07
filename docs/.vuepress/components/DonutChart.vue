@@ -19,14 +19,17 @@ export default {
   data() {
     return {
       chartData: {
-        labels: ["Data & BI", "Code", "Music"],
+        labels: ["Data & BI", "Presales", "Code", "Music", "Travel", "Reading"],
         datasets: [
           {
-            data: [30, 20, 10],
+            data: [30, 25, 20, 10, 8, 7],
             backgroundColor: [
               "#d2d9e9",
+              "#b8c9e0",
               "#a3cef1",
-              "#6096ba"
+              "#6096ba",
+              "#457b9d",
+              "#1d3557"
             ]
           }
         ]

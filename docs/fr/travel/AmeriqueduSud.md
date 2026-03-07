@@ -16,3 +16,4 @@ next:
 
 ::: tip
 [Blog Amérique du sud](https://ameriquedusud.rouquin.me/)
+

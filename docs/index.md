@@ -19,9 +19,7 @@ search: false
 - ⚡ Fun fact: Love sticker
 - 🪴Grow up with +87 PPM
 
-My GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
-
-[![Magikcypress's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magikcypress&hide_progress=true)](https://github.com/magikcypress/)
+[![GitHub](https://img.shields.io/github/followers/magikcypress?label=Follow&style=social)](https://github.com/magikcypress/) [![GitHub stars](https://img.shields.io/github/stars/magikcypress?affiliations=OWNER&style=social)](https://github.com/magikcypress?tab=repositories)
 
 ### Skills
 
@@ -44,10 +42,6 @@ Find under its graphic lines my legacy skills over the years. In red you can see
 <Blog :limit="5" />
 
 ## Travel
-
-::: tip Unavailable
-Currently the rouquin travel blog's are temporary unavailable in South America zone.
-:::
 
 I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
 
@@ -87,7 +81,7 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 
 ### Listening
 
-::: tip OpenAI say for : "Can you see me a top 10 of eletronic music for 2023?"
+::: tip OpenAI say for : "Can you see me a top 10 of eletronic music for 2025?"
 <OpenAi/>
 :::
 
@@ -102,3 +96,4 @@ Sometime, I play vinyl in my home & I stream on my [personal web live server](ht
 :::
 
 <Button/>
+

@@ -16,3 +16,4 @@ Big change ... Just ouahhhhhh
 
 ::: tip
 [My Japan blog](https://japon.rouquin.me/) (French)
+

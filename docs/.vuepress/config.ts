@@ -49,16 +49,11 @@ export default defineUserConfig({
         lastUpdated: true,
         contributors: true,
         navbar: [
-          {
-            text: 'Directions',
-            children: [
-              { text: 'About', link: '/#my-biggest-life' },
-              { text: 'Blog', link: '/#blog' },
-              { text: 'Travel', link: '/#travel' },
-              { text: 'Passion', link: '/#passion' },
-              { text: 'Live Stream', link: 'https://live.rouquin.me/' },
-            ],
-          },
+          { text: 'About', link: '/#my-biggest-life' },
+          { text: 'Blog', link: '/#blog' },
+          { text: 'Travel', link: '/#travel' },
+          { text: 'Passion', link: '/#passion' },
+          { text: 'Live Stream', link: 'https://live.rouquin.me/' },
         ]
       },
       '/fr/': {
@@ -72,16 +67,11 @@ export default defineUserConfig({
         lastUpdated: true,
         contributors: true,
         navbar: [
-          {
-            text: 'Directions',
-            children: [
-              { text: 'About', link: '/fr/#ma-plus-grande-vie' },
-              { text: 'Blog', link: '/fr/#blog' },
-              { text: 'Voyages', link: '/fr/#voyages' },
-              { text: 'Passion', link: '/fr/#passion' },
-              { text: 'Live Stream', link: 'https://live.rouquin.me/' },
-            ],
-          },
+          { text: 'About', link: '/fr/#ma-plus-grande-vie' },
+          { text: 'Blog', link: '/fr/#blog' },
+          { text: 'Voyages', link: '/fr/#voyages' },
+          { text: 'Passion', link: '/fr/#passion' },
+          { text: 'Live Stream', link: 'https://live.rouquin.me/' },
         ]
       },
     }
