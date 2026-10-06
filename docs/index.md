@@ -33,10 +33,6 @@ Find under its graphic lines my legacy skills over the years. In red you can see
 
 <LineChart />
 
-::: tip Past life
-[You see my first professional life](http://vincent.legeard.info/cv)
-:::
-
 ## Blog
 
 <Blog :limit="5" />
