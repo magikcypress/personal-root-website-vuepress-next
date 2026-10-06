@@ -33,10 +33,6 @@ Retrouver sous cet objet, la courbe d'évolution de mes compétences au fil des 
 
 <LineChart />
 
-::: tip Vie passée
-[Voir ma première vie professionnel](http://vincent.legeard.info/cv)
-:::
-
 ## Blog
 
 <Blog :limit="5" lang="fr" />
